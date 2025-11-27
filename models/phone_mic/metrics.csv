@@ -1,0 +1,2 @@
+n_rows_full,n_rows_train,mae_rt60_s,f1_macro_quality,features_used
+136,136,0.40642408768908905,0.9784521774311905,edt_s|c50_db|c80_db|r2|snr_db|spl_leq_db|spl_l90_db|capped|rt60_band_mean|rt60_band_median|n_band_ok|n_band_check|n_band_low

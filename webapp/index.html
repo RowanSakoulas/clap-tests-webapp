@@ -1,0 +1,791 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Clap Tests</title>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="/webapp/favicon.ico?v=3" type="image/x-icon">
+  <link rel="shortcut icon" href="/webapp/favicon.ico?v=3" type="image/x-icon">
+
+  <style>
+    :root{
+      --container:1100px; --gutter:0px;
+
+      --bg:#0c1a24; --panel:#0f2432; --card:#132a3b; --line:#1f3a4d;
+      --ink:#eaf3fb; --ink-2:#b9cfe0; --muted:#90a7b8;
+      --accent:#4F0769; --accent-2:#19c37d; --danger:#e05a61; --warn:#ffb266;
+      --pill:#2a3f52; --trim:#1990A8; --shadow:0 8px 32px rgba(0,0,0,.35);
+      --radius:16px;
+    }
+    *,*::before,*::after{box-sizing:border-box}
+    html,body{  height: auto;min-height: 100%;}
+    body{margin:0;background:var(--bg);color:var(--ink);font-family:"IBM Plex Sans",system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+    .wrap{max-width:var(--container);margin:24px auto 16px;padding:0 var(--gutter)}
+
+    /* Sticky header spans full page width */
+    header{position:sticky;top:0;z-index:50;background:rgba(12,26,36,.92);backdrop-filter:saturate(1.2) blur(6px)}
+    .header-inner{max-width:var(--container);margin:0 auto;padding:14px var(--gutter)}
+    .head-top{display:flex;align-items:center;justify-content:space-between;gap:14px}
+    .titleRow{display:flex;align-items:baseline;gap:14px}
+    header h1{font-size:56px;line-height:1;margin:0;letter-spacing:.2px}
+    .status{display:flex;align-items:center;gap:8px;font-size:14px;color:var(--ink-2)}
+    .dot{width:8px;height:8px;border-radius:999px;background:var(--accent-2)}
+    .pills{display:flex;gap:12px;flex-shrink:0}
+    .pill{background:var(--pill);color:var(--ink);border:1px solid rgba(255,255,255,.08);padding:9px 18px;border-radius:999px;cursor:pointer;font-weight:700;box-shadow:inset 0 0 0 1px rgba(255,255,255,.06);outline:2px solid var(--trim);outline-offset:-1px}
+    /* underline matches body width exactly */
+    .header-rule{height:3px;background:var(--trim);margin:10px auto 0;border-radius:2px;max-width:var(--container);padding:0 var(--gutter)}
+    .header-rule::before{content:"";display:block;height:3px;background:var(--trim);margin-left:calc(-1 * var(--gutter));margin-right:calc(-1 * var(--gutter))}
+
+    /* Panels */
+    .panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow),inset 0 0 0 2px rgba(0,0,0,.12);outline:2px solid var(--trim);outline-offset:-2px}
+    .section{padding:18px 22px}
+    .section h2{font-size:24px;margin:0 0 10px 0}
+    .rule{height:3px;background:var(--trim);margin:10px 0 16px 0;border-radius:2px}
+
+    /* Grid */
+    .layout{display:grid;grid-template-columns:1fr 360px;gap:18px}
+    .row{display:grid;gap:18px}
+    .r1{grid-template-columns:1fr 420px;align-items:center}
+    .r2{grid-template-columns:1fr 420px}
+    .r3{grid-template-columns:1fr 420px;align-items:center}
+
+    /* Upload (keeps shape / strict center) */
+    .drop{background:var(--card);border:2px dashed var(--line);border-radius:14px;height:190px;position:relative}
+    .drop-inner{position:absolute;inset:0;display:grid;align-content:center;justify-items:center;gap:12px;text-align:center;color:var(--ink-2)}
+    .drop strong{color:var(--ink);font-weight:600}
+
+    .btn{appearance:none;border:none;outline:none;cursor:pointer;border-radius:999px;padding:16px 22px;font-weight:700;font-size:16px;color:#fff;box-shadow:0 10px 30px rgba(0,0,0,.25)}
+    .btn-primary{background:var(--accent)}
+    .btn-red{background:var(--danger)}
+    .btn-wide{width:100%;height:56px;display:flex;align-items:center;justify-content:center;gap:10px}
+    .pill-ghost{padding:6px 18px;border-radius:999px;background:transparent;color:var(--ink);font-weight:800;border:1px solid var(--trim);cursor:pointer;}
+
+    .rec-dot{width:10px;height:10px;border-radius:999px;background:#fff;box-shadow:0 0 0 3px rgba(0,0,0,.15)}
+    .spinner{width:18px;height:18px;border:3px solid rgba(255,255,255,.35);border-top-color:#fff;border-radius:50%;animation:spin 1s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+
+    /* Inputs */
+    .subhead{font-weight:800;font-size:18px}
+    .subhead2{font-weight:800;font-size:18px;padding-top:1px}
+    .inputs input{width:100%;height:38px;border-radius:14px;border:2px solid var(--trim);background:#bcd7e7;color:#0f1720;padding:0 12px;font-size:14px;box-sizing:border-box;}
+
+    /* Active recordings */
+    .chips{display:flex;gap:14px;align-items:center}
+    .chip{background:var(--pill);color:var(--ink-2);padding:7px 16px;border-radius:999px;font-size:12px;outline:2px solid var(--trim)}
+    .grid-rec{display:grid;grid-template-columns:1fr 1fr;gap:14px;min-height:128px;align-items:flex-start;}
+    .rec-card{background:var(--card);border:2px solid var(--line);border-radius:14px;padding:10px 10px 12px !important;position:relative}
+    .rec-title{font-size:14px;color:var(--ink);margin:0 0 6px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    .rec-x-bubble{position:absolute;top:-10px;right:-10px;width:22px;height:22px;display:none;place-items:center;border-radius:999px;background:#fff;color:#0e1822;font-weight:800;box-shadow:0 2px 10px rgba(0,0,0,.35);cursor:pointer;padding-bottom:10px;}
+    .editing .rec-x-bubble{display:grid}
+    .rec-row{display:flex;gap:10px;align-items:center}
+    .wave{position:relative;flex:1;height:64px;background:#0a1a26;border-radius:8px;overflow:hidden;border:1px solid var(--line)}
+    .wave-play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;border:none;background:radial-gradient(circle, rgba(0,0,0,0.25), transparent);color:#fff;font-size:18px;cursor:pointer;opacity:0.65;transition:opacity 0.15s ease-out, background 0.15s ease-out;padding:0;}
+    .rec-card:hover .wave-play{opacity:1;}
+    .wave-play.is-playing{opacity:1;background:radial-gradient(circle, rgba(0,0,0,0.35), transparent);}
+    canvas.wavecan{display:block;width:100%;height:100%}
+    .qchip{min-width:60px;text-align:center;font-weight:800;color:#fff;border-radius:999px;padding:6px 10px;font-size:11px}
+    .qc-ok{background:var(--accent-2)} .qc-check{background:var(--warn);color:#162025} .qc-low{background:var(--danger)}
+
+    /* Config */
+    .cfg-bubble{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+    .select{height:30px;border-radius:10px;border:2px solid var(--trim);background:#bcd7e7;color:#0f1720;padding:0 10px}
+    .cfg-label{font-weight:700;margin-right:0px}
+    input[type="checkbox"]{accent-color:var(--accent)}
+    #analyzeBtn.btn-wide{margin-top:48px}
+
+    /* Results */
+    .cards{display:grid;grid-template-columns:1fr 1fr;gap:14px;min-height:140px}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;position:relative}
+    .card h4{margin:0;font-size:16px}
+    .staples{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:10px 0 8px}
+    .s{background:#0a1a26;border:1px solid var(--line);border-radius:8px;padding:8px;text-align:center}
+    .s .k{font-size:11px;color:var(--muted)} .s .v{font-size:15px;font-weight:700}
+    .badge{position:absolute;top:6px;right:8px;padding:4px 8px;border-radius:999px;font-size:11px;font-weight:800;color:#fff}
+    .b-ok{background:var(--accent-2)} .b-check{background:var(--warn);color:#162025} .b-low{background:var(--danger)}
+    .empty-hint{margin-bottom:18px}
+    .results .card .low-note {margin-top: 16px;font-size: 12px;color: var(--ink-3);}
+
+    /* LMH visualiser */
+    .lmh{margin:8px 0 0;background:#0a1a26;border:1px solid var(--line);border-radius:10px;padding:10px}
+    .lmh-svg{width:100%;height:150px;display:block}
+    .lmh-caption{margin-top:6px;color:var(--muted);font-size:12px;text-align:center}
+
+    /* Details */
+    .details{display:none;margin-top:10px}
+    .details.open{display:block}
+    .detail-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:8px}
+    .detail-grid .s{padding:8px}
+
+    /* Per-band RT table inside details */
+    .band-table{margin-bottom:8px;padding:8px;border-radius:10px;background:#0c1d2a;font-size:12px}
+    .band-table-title{font-weight:600;margin-bottom:4px;color:var(--muted)}
+    .band-header,.band-row{display:grid;grid-template-columns: 2.2fr 1fr 1fr 1fr 0.9fr;gap:6px;align-items:baseline;}
+    .band-header{font-size:11px;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:2px;margin-bottom:3px;}
+    .band-row{padding:1px 0}
+    .band-row .rt{font-variant-numeric:tabular-nums}
+    .band-row .q-ok{color:#19c37d}
+    .band-row .q-check{color:#ffb266}
+    .band-row .q-low{color:#e05a61}
+
+    /* Feedback */
+    aside.feedback{position:sticky;top: var(--sticky-top);align-self:start;min-width:320px;max-width:420px;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px 12px 28px;box-shadow:var(--shadow);outline:2px solid var(--trim);outline-offset:-2px}
+    .fb-head{display:flex;align-items:center;justify-content:space-between;font-weight:700;font-size:24px;padding-bottom:1.5px}
+    .fb-toggle{cursor:pointer;user-select:none}
+    .fb-body{margin-top:10px;font-size:14px;color:var(--ink-2)}
+    #historyBody #fbSummary{font-size:13px;}
+    #historyBody #fbBullets{font-size:13px;}
+    #fbBullets li {margin: 4px 0 6px;line-height: 1.5;}
+    #fbBullets li.fb-actions-heading {list-style: none;margin-top: 10px;margin-bottom: 4px;font-weight: 600;color: var(--ink);}
+
+    /* Graphs */
+    .graphs-head{display:flex;align-items:center;justify-content:space-between}
+    .graphs-body{display:none;margin-top:8px}
+    .graphs-body.open{display:block}
+    .graph-links a{color:#a8d7ff;text-decoration:none;padding:4px 0;display:block}
+    .graph-links a:hover{text-decoration:underline}
+    .gfile{margin:14px 0 8px;font-weight:700}
+    .gpair{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+    .gpair img{width:100%;height:auto}
+
+    /* Modals */
+    .modal{position:fixed;inset:0;display:none;place-items:center;background:rgba(0,0,0,.45);z-index:60}
+    .modal.open{display:grid}
+    .modal .box{background:var(--panel);border:1px solid var(--line);border-radius:14px;min-width:420px;max-width:880px;max-height:80vh;padding:16px;outline:2px solid var(--trim);overflow:auto;scrollbar-width:thin;scrollbar-color:#4b5a6b transparent;}
+    .modal .box::-webkit-scrollbar{width:6px;}
+    .modal .box::-webkit-scrollbar-track{background:transparent;}
+    .modal .box::-webkit-scrollbar-thumb{background:#4b5a6b;border-radius:3px;}
+    .modal-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:4px;}
+    .modal .close{float:right}
+    .modal-head h3{margin:0;}
+    .modal .rule{margin:6px 0 10px;}
+
+    .empty{color:var(--muted);font-size:14px}
+
+    ul.tips { margin: 6px 0 12px 0; padding-left: 20px; }
+    ul.tips li { margin: 4px 0; line-height: 1.45; color: var(--ink-2); font-size: 13px; }
+
+    /* tweakables for pixel-perfect nudging */
+    :root{
+      --analyse-min: 1100px;   /* steady “two-rows” height for Analyse when empty */
+      --sticky-top: 96.5px;     /* feedback sticky offset to align with Analyse title */
+      --pills-nudge: 8px;     /* drop header buttons a hair to match API baseline */
+    }
+
+    /* 1) Analyse panel keeps big size even with 0 files */
+    #analysePanel{ min-width: var(--analyse-min); }
+    @media (max-width: 980px){
+      #analysePanel{ min-width: auto; } /* on narrow screens let it flow */
+    }
+
+    /* 3) Context Inputs header aligns with Active Recordings */
+    .inputs .rule{ margin: 11px 0 10px !important}  /* matches left column */
+    .r2{ align-items: start; } /* ensure both columns start at the same top line */
+
+    /* 4) Header buttons baseline aligns with “API ready” status */
+    .pills{ align-items: flex-end; transform: translateY(var(--pills-nudge)); }
+
+    /* 5) Dropzone: button is true centre; label vertically centred */
+    .drop-inner{
+      display:grid; grid-template-rows:1fr auto 1fr; gap:12px;
+      align-content:stretch; justify-items:center;
+    }
+    .drop-inner > div:first-child{ grid-row:1; align-self:end; }
+    .drop-inner > button{ grid-row:2; }
+    .btn{ display:inline-flex; align-items:center; justify-content:center; line-height:1; }
+    #pick svg{ display:block; } /* remove stray baseline dip */
+
+    /* 6) Consistent gaps between stacked sections (Analyse, Results, Graphs) */
+    .panel.section + .panel.section{ margin-top: 18px; }
+
+    /* 7) Header underline equals body width (no over/under-run) */
+    .header-rule{
+      height:3px; background:var(--trim);
+      max-width:var(--container); margin:10px auto 0; border-radius:2px; padding:0;
+    }
+    .header-rule::before{ content:none; }
+
+    /* Smaller empty state for Results */
+    .panel.is-empty { padding-bottom: 12px; }
+    .panel.is-empty #results { min-height: 0; }
+    .empty-hint { font-size: 13px; color: var(--ink-3); padding: 8px 0 4px; }
+
+    :root{ --footer-gap:30px; } /* space BELOW the text */
+    .app-footer{
+      max-width:var(--container); margin:60px auto 0;
+      display:grid; place-items:center;       
+      font-size:12px; line-height:1; opacity:.4;  
+    }
+
+    #graphsHost .gblock{margin-bottom: 18px;padding: 10px 10px 14px;border-radius: var(--radius);border: 1px solid var(--line);background: #102233;}
+    .gfile{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;font-weight:500;}
+    .gfile-link{background:none;border:none;color:var(--ink);font:inherit;padding:0;cursor:pointer;text-align:left;}
+    .g-info{width:22px;height:22px;border-radius:999px;border:2px solid var(--trim);background:transparent;color:var(--ink-2);font-size:13px;cursor:pointer;font-weight: 700;display: grid;place-items: center;}
+    .gpair{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+    .gimg-wrap{border-radius:14px;overflow:hidden;border:3px solid var(--trim);background:#ffffff;padding: 8px 10px 14px;position: relative;}
+    .gimg-wrap img{display:block;width:100%;height:auto;}
+    .gblock.pulse{box-shadow:0 0 0 2px rgba(25,144,168,.5);transition:box-shadow .25s ease-out;}
+    .gimg-title{position: absolute;padding-top:7px;left: 50%;transform: translate(-50%, -50%);font-size: 14px;font-weight: 600;color: var(--panel);text-shadow: 0 0 8px rgba(0,0,0,.35);pointer-events: none;}
+    .gimg-inner{position: relative; border-radius: 14px;overflow: hidden;}
+    .gimg-inner img{display: block;width: 100%;height: auto;padding-top:12px}
+
+    .api-toggle {text-decoration: underline;cursor: pointer;white-space: nowrap;} 
+
+    .info-nav{margin-bottom: 14px;padding: 10px 12px;border-radius: 10px;background:#102233;font-size:13px;line-height:1.5;}
+    .info-nav-title{font-weight:600;margin-bottom:4px;}
+    .info-nav ul{list-style:none;padding-left:0;margin:4px 0 0 0;display:flex;flex-wrap:wrap;gap:8px 16px;}
+    .info-nav a{color:#a8d7ff;text-decoration:none;border-bottom:1px dotted rgba(168,215,255,.6);padding-bottom:1px;cursor:pointer;}
+    .info-nav a:hover{border-bottom-style:solid;}
+    .info-grid{display:block;font-size:14px;}
+    @media (max-width:900px){.info-grid{display:block;}}
+    .info-section{margin-bottom:18px;}
+    .info-section h4{font-size:18px;margin:14px 0 6px;}
+    .info-subhead{font-weight:600;margin:10px 0 4px;}
+    .info-section p{margin:4px 0 8px;line-height:1.5;color:var(--ink-2);}
+    .info-section ul{margin:4px 0 10px 18px;padding-left:16px;list-style-type:disc;}
+    .info-section li{margin:4px 0;line-height:1.5;color:var(--ink-2);}
+    .info-dict{margin-top:4px;}
+    .info-dict dt{font-weight:600;margin-top:10px;color:var(--ink);}
+    .info-dict dd{margin:2px 0 6px 0;line-height:1.5;color:var(--ink-2);font-size:13px;}
+
+    .app-footer::after{ content:""; display:block; height:var(--footer-gap); }
+  </style>
+</head>
+<body>
+  <!-- full-width sticky header -->
+  <header>
+    <div class="header-inner">
+      <div class="head-top">
+        <div class="titleRow">
+          <h1>Clap Tests</h1>
+          <div class="status">
+            <span class="dot" id="api-dot"></span>
+            <span id="api-msg">
+              <span id="api-msg-label">Checking API…</span>
+              <span id="api-model" class="api-toggle"></span>
+            </span>
+          </div>
+        </div>
+        <div class="pills"><div class="pill" data-modal="historyModal">History</div><div class="pill" data-modal="infoModal">Info</div></div>
+      </div>
+    </div>
+    <div class="header-rule"></div>
+  </header>
+
+  <div class="wrap">
+    <div class="layout">
+      <div>
+        <!-- Analyse -->
+        <div id="analysePanel" class="panel section">
+          <h2>Analyse</h2>
+          <div class="rule"></div>
+
+          <!-- Row 1 -->
+          <div class="row r1">
+            <div id="drop" class="drop">
+              <div class="drop-inner">
+                <div><strong>Select or drag + drop</strong> impulse response recordings</div>
+                <button id="pick" class="btn btn-primary" aria-label="Select files">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" style="margin-right:8px">
+                    <path d="M12 3v10m0 0l-4-4m4 4l4-4" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+                  </svg>
+                  Select files
+                </button>
+                <input id="file-input" type="file" accept="audio/*" multiple style="display:none"/>
+              </div>
+            </div>
+            <div>
+              <button id="recordBtn" class="btn btn-red btn-wide"><span class="rec-dot"></span> Record</button>
+            </div>
+          </div>
+
+          <!-- Row 2 -->
+          <div class="row r2" style="margin-top:16px">
+            <div>
+              <div style="display:flex;align-items:center;gap:14px;margin-bottom:6px">
+                <div class="subhead">Active Recordings</div>
+                <div class="pill-ghost" id="editToggle" style="font-size:12px">Edit</div>
+                <div class="pill-ghost" id="doneToggle" style="font-size:12px;display:none">Done</div>
+              </div>
+              <div class="rule" style="margin:6px 0 10px"></div>
+              <div id="recGrid" class="grid-rec"></div>
+            </div>
+            <div class="inputs">
+              <div style="display:flex;align-items:center;gap:14px;margin-bottom:6px">
+                <div class="subhead2">Context Inputs</div>
+              </div>
+              <div class="rule" style="margin:6px 0 10px"></div>
+              <input id="ctxUse" placeholder="Space use..."/>
+              <div style="height:10px"></div>
+              <input id="ctxGoal" placeholder="Acoustic goal..."/>
+              <div style="height:10px"></div>
+              <input id="ctxLabel" placeholder="Session title..."/>
+            </div>
+          </div>
+
+          <!-- Row 3 -->
+          <div class="row r3" style="margin-top:16px">
+            <div>
+              <div class="subhead">Config Panel</div>
+              <div class="rule" style="margin:8px 0 14px"></div>
+              <div class="cfg-bubble">
+                <span class="cfg-label">Per-band analysis preset:</span>
+                <select id="preset" class="select">
+                  <option value="" selected>None</option>
+                  <option value="phone-safe">Phone-safe (125-8000 Hz)</option>
+                  <option value="speech">Speech band (200-4000 Hz)</option>
+                  <option value="musician">Musician (Full spectrum)</option>
+                </select>
+                <label style="display:flex;align-items:center;gap:0px"><input id="savePlots" type="checkbox" checked/> Save plots</label>
+              </div>
+            </div>
+            <div style="align-self:center">
+              <button id="analyzeBtn" class="btn btn-primary btn-wide">► Analyse</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Results -->
+        <div class="panel section results">
+          <div style="display:flex;align-items:center;gap:14px">
+            <h2 style="margin:0">Results</h2>
+            <button id="toggleDetailsAll" class="pill-ghost" style="font-weight:800;font-size: 11px">Details</button>
+          </div>
+          <div class="rule"></div>
+          <div id="results" class="cards"></div>
+
+          <!-- Save session -->
+          <div style="margin-top:14px;display:flex;justify-content:center;">
+            <button id="saveSessionBtn"
+                    class="pill-ghost"
+                    style="font-weight:800;font-size:12px;padding:8px 18px;">
+              Save session
+            </button>
+          </div>
+        </div>
+
+        <!-- Graphs -->
+        <div class="panel section graphs">
+          <div class="graphs-head">
+            <h2>Graphs</h2>
+            <div id="graphsToggle" class="fb-toggle">▾</div>
+          </div>
+          <div class="rule"></div>
+          <div class="graphs-body" id="graphsBody">
+            <div class="graph-links" id="graphLinks" style="margin-bottom:8px"></div>
+            <div id="graphsHost"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Feedback -->
+      <aside class="feedback" id="feedback">
+        <div class="fb-head">
+          <div>Feedback</div>
+          <div id="fbToggle" class="fb-toggle">▾</div>
+        </div>
+        <div class="rule" style="margin:6px 0 10px"></div>
+        <div id="fbBody" class="fb-body">
+          <ul id="fbBullets" style="margin:0 0 18px 18px;padding:10px;"></ul>
+        </div>
+      </aside>
+    </div>
+  </div>
+
+  <!-- Modals -->
+  <div class="modal" id="historyModal">
+    <div class="box">
+      <div class="modal-head">
+        <h3>History</h3>
+        <button class="close pill-ghost" data-close="historyModal">Close</button>
+      </div>
+      <div class="rule"></div>
+      <div id="historyBody">
+        <p class="empty">No saved sessions yet. Run an analysis and click “Save session”.</p>
+      </div>
+    </div>
+  </div>
+  <div class="modal" id="infoModal">
+  <div class="box">
+    <div class="modal-head">
+      <h3>Info</h3>
+      <button class="close pill-ghost" data-close="infoModal">Close</button>
+    </div>
+    <div class="rule"></div>
+
+    <!-- navigation header -->
+    <nav class="info-nav">
+      <div class="info-nav-title">On this page</div>
+      <ul>
+        <li><a href="#info-overview">What is Clap Tests?</a></li>
+        <li><a href="#info-user">User Interaction Guide</a></li>
+        <li><a href="#info-record">How to Record and Analyse</a></li>
+        <li><a href="#info-interpret">How to Interpret Results</a></li>
+        <li><a href="#info-dict">Data Dictionary</a></li>
+        <li><a href="#info-limit">Limitation Acknowledgement</a></li>
+      </ul>
+    </nav>
+
+    <div class="info-grid">
+
+      <!-- What is Clap Tests? -->
+      <section id="info-overview" class="info-section">
+        <h4>What is Clap Tests?</h4>
+        <p>
+          Clap Tests is a browser-based acoustic analysis tool for everyday rooms. It turns a small set of short
+          recordings, usually hand-clap impulse responses captured on a phone, into a structured summary of how a room
+          behaves: how long sound lingers, how clear speech is, and how much background noise is present.
+        </p>
+        <p>
+          Instead of requiring 3D models or specialist simulation software, Clap Tests is an in-situ system that works
+          directly from what the room actually sounds like. Each recording is treated as a probe of the room. The app:
+        </p>
+        <ul>
+          <li>trims and normalises the audio to isolate the impulse and its decay,</li>
+          <li>fits a regression line to the decay curve to estimate reverberation time (RT60),</li>
+          <li>calculates clarity, background noise and other core room-acoustic parameters, and</li>
+          <li>wraps everything in guardrails and quality checks so unreliable takes are flagged and confidence is ensured in the analysis.</li>
+        </ul>
+        <p>
+          The goal is a quick, trustworthy workflow that helps users understand the acoustic perception of a room,
+          compare sessions, and test retrofit moves, all without requiring prior knowledge or experience.
+        </p>
+      </section>
+
+      <!-- User Interaction Guide -->
+      <section id="info-user" class="info-section">
+        <h4>User Interaction Guide</h4>
+
+        <p class="info-subhead">Header bar</p>
+        <ul>
+          <li><strong>History:</strong> opens previous saved sessions to compare runs over time.</li>
+          <li><strong>Info:</strong> offers users information and guidance.</li>
+        </ul>
+
+        <p class="info-subhead">Results section (recording cards)</p>
+        <p>Each uploaded file becomes its own card:</p>
+        <ul>
+          <li>
+            A quality badge (<strong>Ok</strong>, <strong>Check</strong> or <strong>Low</strong>) summarises whether
+            the recording passed the internal quality checks.
+          </li>
+          <li>
+            A row of tiles shows key metrics such as <strong>RT60</strong>, <strong>EDT</strong>, <strong>C50</strong>
+            and the fit confidence (<strong>r²</strong>).
+          </li>
+          <li>
+            A simple <strong>Low / Mid / High RT60</strong> graph shows how decay time changes across broad frequency
+            ranges.
+          </li>
+          <li>
+            Secondary tiles show extra metrics like <strong>C80</strong>, <strong>L90</strong>, <strong>SNR</strong>
+            and whether the estimate was capped.
+          </li>
+          <li>
+            A short list of per-recording feedback bullets explains what went well, what was marginal, and when to
+            retest.
+          </li>
+          <li>
+            <strong>LOW</strong> cards still appear in the grid but void the metrics, acting as a reminder that those
+            takes didn’t meet quality thresholds and should be replaced.
+          </li>
+        </ul>
+
+        <p class="info-subhead">Graphs view</p>
+        <p>For any analysis with <strong>Save Plots</strong> enabled, a <strong>View graphs</strong> button opens diagnostic plots:</p>
+        <ul>
+          <li>a spectrogram of the impulse response, and</li>
+          <li>a decay-fit graph showing the energy decay curve and regression window used for RT60.</li>
+        </ul>
+
+        <p class="info-subhead">Feedback panel (right side)</p>
+        <p>The panel on the right summarises the whole room:</p>
+        <ul>
+          <li>A status line shows the quality check results of the analysis.</li>
+          <li>
+            Bullet points describe overall decay time, tonal balance (boomy / bright / balanced), clarity and background
+            noise.
+          </li>
+          <li>
+            An <strong>Actions</strong> block turns those patterns into 1-2 short suggestions, tuned to the room’s use
+            and the stated acoustic goal.
+          </li>
+        </ul>
+
+        <p class="info-subhead">Session controls</p>
+        <ul>
+          <li><strong>Hide details</strong> collapses the per-band tables and keeps the view compact.</li>
+          <li><strong>Save session</strong> stores the analysis so you can revisit it later from History.</li>
+        </ul>
+      </section>
+
+      <!-- How to record & analyse -->
+      <section id="info-record" class="info-section">
+        <h4>How to Record Quality Audio Samples and Conduct an Acoustic Analysis</h4>
+        <p>
+          The analysis only works as well as the recordings it is fed. This section explains how to capture good impulse
+          responses and run an analysis session.
+        </p>
+
+        <p class="info-subhead">Before you start</p>
+        <ul>
+          <li>
+            Choose the room and position you care about, for example, the main listening position, or a typical working
+            spot.
+          </li>
+          <li>
+            Aim for the room’s “normal” condition: doors as they’re usually left, curtains as they’re usually used, any
+            constant fans or equipment either on or off as you want them to be assessed.
+          </li>
+        </ul>
+
+        <p class="info-subhead">Recording steps</p>
+        <ul>
+          <li><strong>Set up phone/recording device</strong></li>
+          <li>Using selected microphone (internal or external);</li>
+          <li>
+            Choose multiple locations of the room to test (corners, against walls, room centre), as including variation
+            will allow the analysis to be more comprehensive.
+          </li>
+          <li>
+            Recordings can either be collected on an external device such as a phone, or within the web app’s record
+            feature.
+          </li>
+        </ul>
+
+        <p class="info-subhead">Capture short clap responses</p>
+        <ul>
+          <li>Start an audio recording and wait a moment in silence.</li>
+          <li>Produce a single, clear clap or equivalent short impulse.</li>
+          <li>Let the decay of the impulse fade to silence and leave a short gap of silence afterwards.</li>
+          <li>Aim for 2 to 4 claps in separate files depending on the room size.</li>
+        </ul>
+
+        <p class="info-subhead">Avoiding common issues</p>
+        <ul>
+          <li>Ensure there is no microphone handling noise being picked up.</li>
+          <li>
+            Avoid short recordings, the decay needs time to fall away and an optimal length to aim for is around 6 - 8
+            seconds.
+          </li>
+          <li>
+            When working with multiple recordings, ensure that files are appropriately titled, including the room name,
+            variation type and take number.
+          </li>
+        </ul>
+
+        <p class="info-subhead">Upload and analyse</p>
+        <ul>
+          <li>If recordings were done on an external device, drag and drop your files into the upload field.</li>
+          <li>
+            Fill in the context fields (space type, acoustic goal, session label) to help the feedback layer tune its
+            wording.
+          </li>
+          <li>
+            Adjust the configuration panel to change how the frequency bands are split up and to enable/disable graph
+            plotting.
+          </li>
+          <li>
+            Click <strong>Analyse</strong>. The app processes each file and updates the Results cards and Feedback
+            panel.
+          </li>
+        </ul>
+      </section>
+
+      <!-- How to interpret -->
+      <section id="info-interpret" class="info-section">
+        <h4>How to Interpret Results and Feedback</h4>
+        <p>
+          This section walks through the main pieces of information on the Results cards, graphs and Feedback panel, and
+          how to read them together.
+        </p>
+
+        <p class="info-subhead">Quality labels</p>
+        <p>Every recording receives one of three quality labels:</p>
+        <ul>
+          <li>
+            <strong>Ok:</strong> The decay fit is strong (high r²), signal-to-noise ratio is healthy, and the RT60
+            estimate did not need heavy fallback or capping. These readings can be treated as a solid basis for
+            comparing rooms or before/after changes.
+          </li>
+          <li>
+            <strong>Check:</strong> The take is usable but borderline: perhaps the SNR is modest, or the regression had
+            to fall back to a shorter window. The app will blend the measured RT60 with a baseline ML model prediction
+            to steady it, and this should be cross-checked with other takes rather than relying on this one alone.
+          </li>
+          <li>
+            <strong>Low:</strong> The recording did not meet the minimum quality thresholds (e.g. very noisy or the
+            decay reaches the end of the file). Detailed results are withheld and a retake is encouraged.
+          </li>
+        </ul>
+        <p>
+          These labels are your first filter. Focus interpretation on Ok and Check recordings. Treat Low as feedback on
+          recording technique rather than feedback on the room.
+        </p>
+
+        <p class="info-subhead">Tiles and LMH graph</p>
+        <ul>
+          <li><strong>RT60 (s):</strong> Reverberation time. Longer values mean the room’s sound is more lively, shorter values mean it is more dead.</li>
+          <li>
+            <strong>EDT (s):</strong> Early decay time. This captures the first part of the decay and provides a more
+            accurate picture of how a room is perceived at the start of the sound decay.
+          </li>
+          <li><strong>C50 (dB):</strong> Speech clarity. Higher C50 means more energy arrives early, which usually helps speech intelligibility.</li>
+          <li><strong>C80 (dB):</strong> Musical clarity. Higher C80 often suits music settings where sound definition matters.</li>
+          <li><strong>L90 (dB):</strong> Background noise level, representing the floor level the room hovers around.</li>
+          <li><strong>SNR (dB):</strong> Signal-to-noise ratio between the clap and background. Higher SNR is better.</li>
+          <li>
+            <strong>r²:</strong> Fit confidence for the RT60 regression. Values near 1.0 mean the decay curve is close
+            to a clean straight line, low r² indicates a messy or unreliable fit.
+          </li>
+        </ul>
+        <p>The Low / Mid / High RT60 graph compresses spectral behaviour into three points:</p>
+        <ul>
+          <li><strong>Low</strong> is dominated by bass energy;</li>
+          <li><strong>Mid</strong> focuses on the band where speech sits;</li>
+          <li><strong>High</strong> points towards treble and sibilance.</li>
+        </ul>
+
+        <p class="info-subhead">Graphs: Spectrogram and Decay fit</p>
+        <p>Within the Graphs section, there are diagnostic visuals for the same recordings:</p>
+        <ul>
+          <li>The spectrogram shows how energy is distributed over time and frequency.</li>
+          <li>Time runs left to right, frequency runs bottom to top, colour depth shows loudness.</li>
+          <li>A good impulse response looks like a short, bright stripe at the start, followed by a smooth fade.</li>
+          <li>Heavy low-frequency build-up appears as a thick smear near the bottom that lingers.</li>
+          <li>Constant background noise appears as a persistent band or floor of colour even before and after the clap.</li>
+          <li>The decay-fit graph shows the energy decay curve in decibels over time, with the regression window highlighted.</li>
+          <li>A clean take shows a roughly straight middle section where the regression line hugs the curve closely (high r²).</li>
+          <li>If the curve flattens early or hits the end of the clip, the estimate is capped and the quality label drops.</li>
+        </ul>
+        <p>
+          This graph lets you see how the headline RT60 was justified and why a take might have been flagged Check or
+          Low.
+        </p>
+        <p>
+          These graphs are important for auditability, they don’t have to be read every time, but they’re important in
+          visualising how the audio is being read by the system.
+        </p>
+
+        <p class="info-subhead">Room-level feedback</p>
+        <p>The Feedback panel pulls everything together:</p>
+        <ul>
+          <li>The opening bullets summarise:</li>
+          <li>overall decay time for the room,</li>
+          <li>whether the spectral balance leans boomy, bright or balanced,</li>
+          <li>how clarity and background noise sit relative to the measurements.</li>
+        </ul>
+        <p>
+          The Actions bullets turn those observations into options, not prescriptions, e.g. “add bass traps in corners”,
+          “introduce soft furnishings”, or “reduce constant noise sources”. This panel is to form feedback for the
+          entire session where every recording is factored, then the individual cards are used to see the exact metrics
+          and feedback per file.
+        </p>
+      </section>
+
+      <!-- Data Dictionary -->
+      <section id="info-dict" class="info-section">
+        <h4>Data Dictionary</h4>
+        <p>This section spells out every acoustic term and visual used in the app.</p>
+
+        <dl class="info-dict">
+          <dt>Impulse response</dt>
+          <dd>A short burst of sound and its decay in a room, such as a hand clap.</dd>
+
+          <dt>RT60 (s)</dt>
+          <dd>Reverberation Time, estimated time for sound to decay by 60 dB. Longer RT60 = more reverberant; shorter RT60 = less reverberant</dd>
+
+          <dt>EDT (s)</dt>
+          <dd>Early Decay Time, estimated time for sound to decay by 10 dB, derived from the first part of the decay curve.</dd>
+
+          <dt>C50 (dB)</dt>
+          <dd>Speech clarity index, measures the balance between early and late energy within a 50 ms window. Higher C50 values indicate higher clarity.</dd>
+
+          <dt>C80 (dB)</dt>
+          <dd>Music clarity index, similar to C50 but uses an 80 ms split that tends to suit musical perception. Higher C80 values indicate higher clarity.</dd>
+
+          <dt>L90 (dB)</dt>
+          <dd>Background noise level, the level that is exceeded only 10% of the time, used here to capture constant or slowly varying noise in the room.</dd>
+
+          <dt>SPL (Leq)</dt>
+          <dd>Sound Pressure Level, equivalent continuous sound level over the recording. SPL is used internally to keep levels consistent across devices.</dd>
+
+          <dt>SNR (dB)</dt>
+          <dd>Signal-to-noise ratio between the clap and the background. Higher SNR means the clap stands out clearly from background noise. Low SNR is one of the triggers for lower quality flags.</dd>
+
+          <dt>r² (fit confidence)</dt>
+          <dd>The coefficient of determination for the regression line fitted to the decay curve. Close to 1.0 means the decay is well-behaved and the RT60 estimate is trustworthy, low r² warns that the curve is noisy, short or irregular.</dd>
+
+          <dt>Capped</dt>
+          <dd>Indicates that the estimated RT60 would have extended beyond the recording length. In these cases the estimate is capped to 95% of the usable file duration and the quality is dropped to Low to prevent over-estimates.</dd>
+
+          <dt>Low / Mid / High RT60 bands</dt>
+          <dd>Three broad frequency ranges summarising how decay changes across the spectrum.</dd>
+        </dl>
+        <ul>
+          <li><strong>Low:</strong> bass-heavy behaviour.</li>
+          <li><strong>Mid:</strong> core speech band.</li>
+          <li><strong>High:</strong> treble / brilliance.</li>
+        </ul>
+
+        <dl class="info-dict">
+          <dt>Spectrogram</dt>
+          <dd>Time-frequency plot of the impulse response. Time on the x-axis, frequency on the y-axis, colour as level. Used to visualise where energy concentrates and how it decays across frequencies.</dd>
+
+          <dt>Decay-fit / regression graph</dt>
+          <dd>Plot of the Schroeder-style energy decay curve with the regression window highlighted. Shows which part of the curve was used for RT60 estimation and how linear it was.</dd>
+
+          <dt>Fused RT60</dt>
+          <dd>In Check quality cases, the measured RT60 is blended with a baseline ML model prediction to stabilise the result. When this happens the tile label changes to “Fused RT60 (s)” and the card discloses that a blend was used.</dd>
+
+          <dt>Quality labels (Ok / Check / Low)</dt>
+          <dd>Summaries of whether the recording passed guardrails for fit confidence, SNR and capping. Used both to decide which results to trust and to trigger retest guidance.</dd>
+
+          <dt>Preset / band limit</dt>
+          <dd>Analysis configuration that defines which frequency range to focus on. A phone-safe or speech preset avoids extreme low and high frequencies that small microphones handle poorly, while still exposing low/mid/high trends, while a musician preset also uses full spectrum analysis but communicates results with more relevant terminology.</dd>
+        </dl>
+      </section>
+
+      <!-- Limitations -->
+      <section id="info-limit" class="info-section">
+        <h4>Limitation Acknowledgement</h4>
+        <p>
+          Clap Tests is designed as a diagnostic and learning tool, not as a formal standards compliance measurement
+          system.
+        </p>
+        <p>Key limitations to keep in mind:</p>
+        <ul>
+          <li>
+            <strong>Consumer hardware:</strong> Microphones and speakers in phones vary between models and over time.
+            Guardrails and normalisation reduce this variability but cannot eliminate it.
+          </li>
+          <li>
+            <strong>User technique:</strong> Hand claps, mic placement and background noise are all uncontrolled in real
+            life. The workflow is built to refuse bad data rather than pretend it’s perfect, which is why Low recordings
+            void results and ask for retakes.
+          </li>
+          <li>
+            <strong>Context:</strong> The tool does not know everything about the room (occupancy, furnishings, doors,
+            open windows) unless it’s provided. Use it as a way to compare states and test changes, but not as a single
+            absolute truth.
+          </li>
+          <li>
+            <strong>Scope:</strong> Clap Tests focuses on reverberation, clarity and background noise in small to medium
+            interior spaces. It is not a replacement for detailed consultancy work in critical performance venues.
+          </li>
+        </ul>
+      </section>
+
+    </div>
+  </div>
+</div>
+
+  <script src="/webapp/app.js" defer></script>
+
+<footer class="app-footer">
+  © 2025 Rowan Sakoulas - UNSW Computational Design
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor
+.vscode/
+
+# Node projects
+webapp/node_modules/
+webapp/dist/
+
+# OS/editor
+.DS_Store
+.vscode/
+
+openai_key.txt
+
+# Node (frontend)
+webapp/node_modules/
+webapp/.parcel-cache/
+webapp/dist/
+webapp/public/build/
+
+# Large / generated / internal data
+backups/
+sound storage/
+sounds/
+metrics_history.csv
+
+graphs/phone_mic/
+graphs/web/

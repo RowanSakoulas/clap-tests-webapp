@@ -1,0 +1,817 @@
+file,band_lo_hz,band_hi_hz,band_label,band_tag,rt60_s,r2,method,quality,capped,mode
+"Bathroom, centre, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.9404614583333335,0.5312793687083346,REG,CHECK,True,ML 2 · Musician
+"Bathroom, centre, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.0722123309712497,0.9974901427271748,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),1.3160024469281388,0.9983567861854508,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.9942611366844162,0.9995259262438735,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.9008443159816044,0.9988329282775076,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.7723175683091007,0.9993784233896863,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),1.6086727541601107,0.9104013988374404,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.5986991499925467,0.9589628910669951,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),1.2671932261619596,0.998885259911632,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.9968437033970722,0.9997076686232012,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.8900120930991059,0.9990935147179292,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.7815026773791746,0.9993781909418769,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.87018125,0.8793922737123641,REG,CHECK,True,ML 2 · Musician
+"Bathroom, centre, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.2077090435529478,0.9859868309013808,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),1.2485303218647021,0.9979745177389084,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),1.0059678987185297,0.996328412240411,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.9115148594277684,0.9986656537096695,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.8261221162115016,0.9961897964798208,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.305789583333333,0.9117852850322078,REG,OK,True,ML 2 · Musician
+"Bathroom, centre, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.8645503444191271,0.9088017250369695,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),1.2470507177412302,0.9919526999752234,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),1.1122688896230124,0.9913591432600785,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),1.02767788887451,0.9891191916172241,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.9291341300538757,0.9864003667342617,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.412730208333333,0.8426158473907883,REG,CHECK,True,ML 2 · Musician
+"Bathroom, centre, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.9852733320592157,0.9607754401517956,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8254935217977023,0.9979358363531988,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7671083070934719,0.9988125146517313,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7008198221681714,0.9993557170806497,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6118211111823717,0.9997236961685373,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.749986458333333,0.38110367759100866,REG,CHECK,True,ML 2 · Musician
+"Bathroom, centre, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.9866054662966084,0.9906584237363051,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.9115575839901245,0.9974739386356994,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7321162823355072,0.9992164245522348,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7046221114581128,0.9991144284225405,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6250373989816191,0.9995078009096754,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.08630625,0.879969154711527,REG,CHECK,True,ML 2 · Musician
+"Bathroom, centre, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.97299196896476,0.9907640744493167,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8816691642435184,0.9987949961521332,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7605594217994305,0.9984805539090851,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6860091036862852,0.9961443177681318,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6288499853987581,0.9967376244399486,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.792202083333333,0.8008515148138436,REG,CHECK,True,ML 2 · Musician
+"Bathroom, centre, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.9101445101119484,0.9875342077523238,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8840700652899475,0.9979155012131744,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7526740159607712,0.9996108315414903,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.705372243260225,0.9990157133509023,REG,OK,False,ML 2 · Musician
+"Bathroom, centre, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6390905920229069,0.9994176574187149,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.8252875,0.20426149995539158,REG,CHECK,True,ML 2 · Musician
+"Bathroom, corner, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.1064535876546666,0.9942324714821387,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),1.3158114264436378,0.9969110117186676,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.994294782907761,0.9994095448763193,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.892391112093802,0.9986785163085766,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.792440714028273,0.9983581955381321,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.482885416666666,0.5353287067139136,REG,CHECK,True,ML 2 · Musician
+"Bathroom, corner, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.155297776910902,0.9795948696449798,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),1.3328409859079347,0.9966678643349853,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),1.1139835507811193,0.9963723546744893,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.9484387903347548,0.9977082124750994,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),5.5176791666666665,0.33875395863926444,REG,CHECK,True,ML 2 · Musician
+"Bathroom, corner, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.248255208333333,0.5718297078792306,REG,CHECK,True,ML 2 · Musician
+"Bathroom, corner, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.1927005848900722,0.9973320301819798,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),1.2904589987574584,0.9987708774702717,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.9985772302485555,0.9988114256174875,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.8838865836264503,0.9994695672059555,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.7576206772524959,0.9990849462576405,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.910272916666666,0.6457111639300276,REG,CHECK,True,ML 2 · Musician
+"Bathroom, corner, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.1643180308019365,0.9930027097928712,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),1.2112494051037035,0.9990773909777885,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),1.0235887417638119,0.9986736761277085,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.880487707100436,0.9991228460228506,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.8115265846744371,0.9989832526735924,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.264272916666666,0.6057564592655008,REG,CHECK,True,ML 2 · Musician
+"Bathroom, corner, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.8626458014757938,0.9925544960660531,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.84881215073461,0.9968058426210935,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8681760157819013,0.9808074033373302,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7742687754773613,0.977101408724193,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6695431337760512,0.985506384589738,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),1.4731975316491654,0.9739944376466755,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.9001758040525346,0.9979974217890833,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8613486779387289,0.9986825405821057,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.697808274793309,0.9975291321498246,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6556069453841732,0.9989753741787561,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5998174847519377,0.9980738755720114,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.544661458333334,0.33488419556912047,REG,CHECK,True,ML 2 · Musician
+"Bathroom, corner, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.8633927859401557,0.9974927147093772,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8250743967966331,0.9989757795806168,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.72114709920977,0.9975036649597668,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6496138739085838,0.9982510986684763,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5552585116316394,0.9987814059971322,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.764711458333333,0.4698953517029737,REG,CHECK,True,ML 2 · Musician
+"Bathroom, corner, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.8653809913357249,0.9971009966557333,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8888151932243535,0.9985508947180552,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7085483485637598,0.9988570297749789,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6561451988250622,0.9988577650338267,REG,OK,False,ML 2 · Musician
+"Bathroom, corner, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.588033557517261,0.9995229679495752,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.8891854478359031,0.9297599363471604,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.04996875,0.35657785802440856,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5427728974292984,0.9964978462388456,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.0527,0.14766863038531455,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.052996875,0.1385854875853869,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),4.052917708333333,0.13667645638305959,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.31715,0.30327147358550566,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.8883657824619351,0.8793207045006034,REG,CHECK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5566231032018256,0.9918113870742058,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.533667663982054,0.9911246919483825,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5250806334644325,0.9908307633485697,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),3.9416885416666667,0.19375094381943173,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),1.4061187499999999,0.7960916858929156,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.6567016461307548,0.9896507262282793,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5582663283568974,0.9966231972672968,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5010897698058931,0.9973383969745608,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5029473476882728,0.9955590585532716,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4331195032907119,0.999618411460158,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),1.4023009866797405,0.6342243438105449,REG,CHECK,False,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),2.658871875,0.44895051689110177,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),2.6610885416666665,0.3399245431532952,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),2.660633333333333,0.3680470599781546,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),2.661385416666666,0.35386520678640265,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),2.6614645833333332,0.2586745767168964,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.3393822916666664,0.8075642593908333,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.339303125,0.321373634183639,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5607538599093981,0.9809661293608806,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.6078968796227039,0.959077877410833,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.344726041666667,0.18254303440304884,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),4.3447458333333335,0.18939394596363604,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.330416666666666,0.4943857802220806,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.5158941529048108,0.9899311485010718,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.559095662760963,0.9888879577811065,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.334652083333333,0.24688635755222374,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.3343156249999995,0.18225098099025072,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),4.3348104166666666,0.16472155471565014,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.906320833333333,0.9434337052224738,REG,OK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.9195416666666665,0.68795553996498,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),3.9205114583333334,0.3857933927867769,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5400964079370472,0.9975199392588558,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.46741520128711883,0.9969092536235865,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.42308642661791973,0.9949271643907972,REG,OK,False,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.170869791666667,0.850051302648484,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.403236458333333,0.7307328223423535,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),3.405888541666666,0.3520733850301989,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),3.4078479166666664,0.5426845330132265,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),3.4077291666666665,0.26059314619159185,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, centre, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),3.40895625,0.26610071972018795,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.0620947916666665,0.6307751144326081,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),5.063480208333333,0.218724685027464,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5386476886642739,0.99619712487333,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.49035987954321136,0.9986406937634794,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.4774492764923805,0.9984491006660896,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.45445244372469,0.9980842061374505,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.4148145833333334,0.6245022795727461,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.41608125,0.27434143778423675,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5391162070878408,0.9949534485741016,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.48700697434804413,0.9983037446979005,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.47515157933798285,0.99892970378016,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4656132438329726,0.9944546123983417,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.5358999086460859,0.8308780061777953,REG,CHECK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.6733025832641906,0.9464158283486777,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5233448751449014,0.9962792906087051,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.4994053582878263,0.9983941454158078,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.48497091678901894,0.9968580167763863,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.44895927284411347,0.9970347721007641,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.6500396980423755,0.9875459142947421,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),8.583071874999998,0.8808253521662586,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),8.585822916666666,0.5233957668342658,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),8.58550625,0.20829010856119565,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.605367403257673,0.9723194444313856,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),8.586772916666668,0.20097137859543698,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.30264363306784864,0.9454719058966387,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.5426466748609841,0.957061536409322,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.459452750630979,0.9864739707930994,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.4427939105188602,0.9942775229996155,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.4549805899249167,0.99495087927064,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.37595111678502047,0.9963770766883528,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.253427083333333,0.27913975576284394,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.43856022026676583,0.9848615563888732,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.4847931152864491,0.9977975925784146,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.4473545427450986,0.9959875060275636,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.41632632174071876,0.9934200188217881,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.41244710678810353,0.9952468384441493,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.612665625,0.7442582130610316,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.5005725896550536,0.9685791218978365,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5876175024364396,0.9684329187053237,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.45093317630502255,0.9957772119567604,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.48341731001255817,0.9886397888123414,REG,OK,False,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),4.615614583333333,0.3010479003899255,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.9187302083333333,0.18343118912104256,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.9313375,0.6262311874410323,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),3.9335343749999994,0.22345891675826518,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),3.9342072916666666,0.18691563798367794,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),3.93383125,0.2020476479290605,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, corner, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),3.9345635416666664,0.1813338601614794,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.48596962353838363,0.9476331405616856,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.0928239583333332,0.4343454164053888,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5204371632946158,0.9963535735195959,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5199681109162512,0.9948973489599328,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.4832659080636207,0.9959552235412934,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.43751600400104507,0.9964083516599362,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.200470833333333,0.3005016136250305,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.2004510416666663,0.32148079627555226,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.570677922025736,0.9961672773202905,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.47761843827697303,0.9990427752976531,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.48156508976778883,0.9991811214618913,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4290416947838973,0.9985770341407005,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.221463541666666,0.938997920834761,REG,OK,True,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),2.4062510416666667,0.7338913943181169,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5538714870322016,0.9945233174881524,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.4914946755270288,0.9984412076239231,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.47315353117476117,0.9986026323290247,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4389915867448096,0.9983778626703091,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.655659375,0.9657131882302583,REG,OK,True,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.6556791666666664,0.5093598795646803,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),3.66023125,0.34953887627869873,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),3.6610031249999997,0.4066493180763521,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5552623124073381,0.9932624950046984,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),3.661102083333333,0.3263212536942557,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.171034375,0.6070093834713429,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.173389583333333,0.2842953607797583,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.6174971651168317,0.9728476133351651,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.48912364286145515,0.9962300474100935,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.45711651130288855,0.9961144899973987,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.42209642887562626,0.9971886199724027,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),1.070707439374865,0.9435306806951445,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.134247916666667,0.47310206980972236,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5005761496831519,0.9964627382755082,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5731008192936684,0.9692332087768797,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.435231407434671,0.9985671660938024,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4033653698893998,0.9981052118599393,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.421161458333334,0.6647651349826145,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.422408333333332,0.3192750477618311,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.814955985467381,0.8907047029887478,REG,CHECK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5265600187533027,0.995485288735646,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.4511717905339329,0.9980817936954718,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.424938655916507,0.9988252828901941,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),6.398626041666667,0.5849324587522611,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.815239583333333,0.18906889252982617,REG,CHECK,True,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5608651682895988,0.9818303269675313,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5290581730177146,0.9875932102756534,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.46487900017197786,0.9936865227023488,REG,OK,False,ML 2 · Musician
+"Bedroom 1, mid, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.47402526075991497,0.9900982221837559,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),2.863359375,0.7314655078174647,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),2.8677135416666664,0.31109008716248737,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),2.8689604166666665,0.20578607527976073,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5664699910970059,0.986550596552893,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),2.8690989583333333,0.21003170914600877,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),2.870405208333333,0.188397016127308,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.449014583333333,0.8668744895844978,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.4441458333333332,0.27164442833910724,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.48915137837492956,0.9964851579181335,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.49191729908710063,0.9983079207121354,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.49757463508837596,0.9981574346736122,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.43531231450627317,0.998619352237747,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.10655833333333332,0.7619749622806956,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.4481041666666665,0.3929298226041153,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5531603052338803,0.9917473054521911,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5256489104706574,0.9963724365344733,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5272214208458949,0.9957145246166245,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4651478362456973,0.9955110742086593,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.2270392834619496,0.7547034905938441,REG,CHECK,False,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.465098958333333,0.15573511903332513,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),4.465059374999999,0.11142117032991024,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.4675135416666665,0.12961459904064104,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5567856202849005,0.9788770502370514,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5238672777619999,0.965122304317018,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.918902083333333,0.6217514417032508,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.918842708333333,0.19762474891888837,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5269812910361679,0.9840143094557411,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5198913291008262,0.9978138102109703,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.47427751973883214,0.9990630730146689,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.456549768746622,0.996928116958803,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.8789230260465398,0.9297766373428877,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.5413526174181663,0.9470410837280105,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5573567227865495,0.9874164516753984,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5468186579735598,0.994923550049816,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5193545514353904,0.9931934918261519,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4632422467565477,0.9951759721950276,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),1.8692437499999999,0.7529112542157613,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.8756364583333331,0.49793334689024266,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.4849502732821293,0.998467559648098,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.4868165677052986,0.9985948033624554,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.4767555200670892,0.9980325733618058,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.421237171696287,0.999618764993478,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.1208875,0.8931579870868122,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.6339875,0.18191598700688164,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),3.635590625,0.1438654243175234,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5701787422008459,0.9796089594718472,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7005887732949804,0.9264916459850213,REG,OK,False,ML 2 · Musician
+"Bedroom 2, centre, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5642111308116473,0.9528302338197853,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.0641791666666665,0.816939906849705,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.066653125,0.4050743437505668,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.4166947947435532,0.994846887394374,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5036479252189398,0.998779690057975,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.47415215128792004,0.9989517513530635,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.44034266495288804,0.9992523343531059,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.029444791666666,0.6787892073554007,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.033126041666667,0.28338962541473056,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.4935029549157392,0.9979312644475994,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5011432172407719,0.9962789312517788,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5008501183362017,0.9981742289397186,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4466978691351251,0.9983334374631953,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.719910416666667,0.46714854879614875,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.744141666666666,0.41758508912579123,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),4.74085625,0.39905873741868275,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5033452127542941,0.9980855963586074,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.489656421090697,0.9991674510272353,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4565038005340179,0.9996372651600093,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.5856760416666664,0.9785353608000369,REG,OK,True,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.597254166666666,0.253939012584906,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),3.599272916666666,0.5686341292956124,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.4859845803899247,0.9983296786830047,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.4914000782682557,0.9979983340726624,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4682458300546519,0.9981338146852742,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.106691666666666,0.7997533559527554,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.43916648504922673,0.9812884460950466,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.4188149121084472,0.9940100515405957,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.4501667966459001,0.9974331695379356,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.4326620828846589,0.9954692242998883,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.3598167076804367,0.9965135841694471,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.47913125,0.7811746906961496,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.489977083333333,0.22149144333921728,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),4.492926041666666,0.17952918990840055,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.49290625,0.17075479264421345,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.4935197916666665,0.27108454624795836,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),4.4936187499999996,0.15321422953750852,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.33628125,0.7111344002900591,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.5138872990429442,0.9801197897746089,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.44141644304309313,0.9928789977044081,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.4699733231250067,0.9961996691608228,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.475172979482282,0.9943784324934571,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4085511610394626,0.9971827640605143,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.101480208333333,0.6035622903410126,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.542589583333333,0.25739514584961676,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.484195068077012,0.9906452728012817,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.4644954248556995,0.9988775424313809,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.45262220270778997,0.9988702883424262,REG,OK,False,ML 2 · Musician
+"Bedroom 2, corner, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.42111764615269065,0.999152784232137,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.100279166666667,0.8574687774948773,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.100378125,0.70494256725405,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),4.1034854166666666,0.5816452613637917,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5528929478228601,0.994378697833164,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6178700870586901,0.9725798690284447,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),4.0988541666666665,0.3500639964200846,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.5760708333333335,0.7911324513927184,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.577317708333333,0.3382598668765336,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5041029544854698,0.9941218860010871,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5065621572939879,0.9975501372063768,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.48499281481732875,0.9975797934488211,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5214528231469769,0.9809477916721998,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.200155061188438,0.7982183924050968,REG,CHECK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),5.1379166666666665,0.42217711181163625,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5152802334343898,0.9935762863762408,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5016436224018516,0.9993184496415053,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.47441912106692535,0.9991512924990574,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.45168619094647056,0.9993779051292807,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.965953125,0.4415493465525755,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.976798958333333,0.18872921372759127,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),3.9784218749999996,0.17819087323904373,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5163746913635868,0.9943428804117768,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.4797780281189285,0.9918788981226657,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4896169629498574,0.9830711694815262,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.5276108943236959,0.6829226446971971,REG,CHECK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.5571747681740216,0.9393211446056207,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5366677542143037,0.9854761965638579,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5257893728115707,0.9804727408361694,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5140350936971656,0.9938899442126575,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4552328623403467,0.9934591748461045,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.9279046414714863,0.9079852915496576,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.5512773505994325,0.9406158597198412,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5043357888105634,0.9959816013173284,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.4848677536434785,0.9977334884063512,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.4788767413125606,0.9968462084493703,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.42177615080647046,0.9990854891480201,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.6546302083333333,0.69515470847248,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.6189332272835021,0.9483270077486953,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.49120425067955853,0.9967951178879213,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.48720580147442805,0.9990191665346576,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.4967377119084148,0.9993651960045401,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.410131753746682,0.9988814622033058,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.348466666666667,0.7800612971117588,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.348308333333334,0.35805522396471007,REG,CHECK,True,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.47123825766640864,0.9949121342826497,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5026931016388755,0.9953230551425649,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.4964255270971035,0.9978772492843245,REG,OK,False,ML 2 · Musician
+"Bedroom 2, mid, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4384162452436078,0.998943490680923,REG,OK,False,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.726315625,0.6660959258563277,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.74003125,0.3653999871409162,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),3.74193125,0.27327116988460287,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),3.7417333333333334,0.2128613857446184,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),3.7417333333333334,0.27072965839249535,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5214589685730244,0.9832052621540517,REG,OK,False,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.2596614583333325,0.7999012375732524,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.2305874999999995,0.524097766210497,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5216438009005531,0.9888152387658447,REG,OK,False,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.263303124999999,0.41793899641139026,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.46419071835882797,0.9974921817120453,REG,OK,False,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),4.263342708333333,0.3051571236482262,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.243089583333333,0.8190891674713496,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),5.251995833333333,0.7327360336529894,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),5.284394791666666,0.45643034603556043,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),5.284652083333333,0.31212309525472215,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.46481609831352694,0.9988578281505409,REG,OK,False,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.45826978745568,0.9957293377817443,REG,OK,False,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.0604447916666664,0.6003914112816134,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.0604645833333333,0.5712000681608966,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),3.0625625,0.3134607861698274,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),3.064502083333333,0.34612291278069185,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),3.0637499999999998,0.33298998876916686,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),3.0630572916666665,0.26671817071671944,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.6088125,0.8790576715419103,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.610059375,0.5760296759465565,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),3.6119593749999996,0.6237033277963001,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),3.6128302083333335,0.4563036965102656,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),3.613325,0.5102052065878069,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),3.6131864583333333,0.26278990433912625,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.9171270833333334,0.9532637820115365,REG,OK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.918453125,0.6768311855207222,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),3.9209468750000003,0.7190707675779543,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),3.9210062499999996,0.5275738507380113,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),3.921283333333333,0.4424224957096942,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),3.9214416666666665,0.30269184123817355,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.47449375,0.7274995522039288,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.7363302083333334,0.5966340800796531,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),3.7390218749999997,0.5479526432808217,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),3.739061458333333,0.41588768153761996,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6292017986518351,0.9400746288066554,REG,OK,False,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.47180691389144525,0.9879281508764575,REG,OK,False,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.795446875,0.9735038980069737,REG,OK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.319689583333333,0.8765653941240447,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),4.3517520833333325,0.7082736130427588,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.351989583333333,0.7643270245207595,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.353691666666666,0.49253530642779825,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, centre, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),4.354047916666667,0.35451045290390315,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.840770833333333,0.7912965453268462,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.842176041666667,0.47986756989149915,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),3.8458572916666665,0.26308669138399826,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),3.845204166666667,0.25353516785628327,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),3.846926041666667,0.16109457436901684,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),3.845303125,0.27056399531270575,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),2.766498958333333,0.42740505940819373,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),2.76651875,0.38371762265845033,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.5018319439791573,0.9940466900412741,REG,OK,False,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.4999348177706469,0.9957440568412287,REG,OK,False,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5038323014546996,0.9840354374655694,REG,OK,False,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4718920865636469,0.9859085751399087,REG,OK,False,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),2.9862458333333333,0.9051802682539075,REG,OK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),2.9862458333333333,0.39931938237219045,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.6462829121009978,0.988437045190243,REG,OK,False,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.46845540804898894,0.9992517995464876,REG,OK,False,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.43643300528474427,0.9987892036735866,REG,OK,False,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4269618008933498,0.9994052711209661,REG,OK,False,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.7817383814683442,0.7701619285930541,REG,CHECK,False,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.0520729166666665,0.7124192371786491,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),3.0532802083333332,0.3558928290623533,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),3.05436875,0.35081973603571853,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),3.0544479166666667,0.3405687257088678,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),3.0556552083333335,0.29008261668483015,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.543513541666667,0.8886056490553165,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.558614583333333,0.6802913649956964,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),4.560534375,0.5874314763139091,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.560791666666667,0.6554597112769002,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.560672916666666,0.6592040925589662,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),4.56095,0.28088438631730417,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.193254166666667,0.7825231717345145,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),5.207048958333333,0.6633431815430496,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),5.210611458333333,0.5323287101953023,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),5.209740624999999,0.6331668931927161,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),5.211878124999999,0.5444970541757916,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),5.211126041666667,0.3038390262224417,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.2126166666666665,0.7790279747448107,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.225065625,0.7262739324057796,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),4.232942708333334,0.45250972001958834,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.226965625,0.6528578852622267,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.226708333333333,0.6678359091263036,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),4.227104166666666,0.26052076653321443,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.155220833333333,0.7768719020150235,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.155240625,0.6694962106207131,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),4.15779375,0.5504382053061303,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.1602875,0.514445922148325,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.159871875,0.3137245178450378,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, corner, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4802874483848387,0.9957505668538602,REG,OK,False,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.391117708333334,0.7922427865221262,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.392443749999999,0.3898639320609573,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),4.3932947916666665,0.21520230146721533,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.3946604166666665,0.21346513127688224,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.395234375,0.1922158674469865,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),4.395313541666666,0.1914171657083418,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.188549999999999,0.7590904885223615,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.187402083333333,0.5426500182466808,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),4.163454166666667,0.33362473597352427,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5516618826813475,0.9847077349873952,REG,OK,False,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.207154166666666,0.4370881179037844,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),4.207094791666667,0.3997242427918274,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.0083270833333335,0.9119019934078139,REG,OK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.0363125,0.4303704311131258,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),4.037183333333333,0.2602112263463381,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.038766666666667,0.2328242548194193,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5353548187742602,0.9900279643688749,REG,OK,False,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.48799084658057623,0.9836624029083091,REG,OK,False,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.288913541666667,0.8131387834409547,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.290180208333333,0.43438010898772755,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),4.2700125,0.36768505337221946,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.292852083333333,0.24996473159625593,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.8249755073098978,0.8597764995682674,REG,CHECK,False,ML 2 · Musician
+"Bedroom 3, mid, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),4.292733333333333,0.23071194276879792,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.825485416666666,0.9018192603990316,REG,OK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.828315625,0.7282460953504524,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),4.8167374999999995,0.7161402566613687,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.84226875,0.7474824665193865,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.8433770833333325,0.550760022064798,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),4.8434760416666665,0.40355580221404,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.018361458333334,0.9118322733771116,REG,OK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.031127083333334,0.8933820475008903,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),4.030374999999999,0.8432515958603802,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.007377083333333,0.6473827608477838,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.032255208333333,0.3646712513656142,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.432895364435745,0.9972908119731437,REG,OK,False,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.1094760416666665,0.6373625308872666,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),5.110663541666666,0.310658659934618,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),5.113117708333333,0.3328417958628753,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),5.113652083333333,0.35446559759694385,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5043103985812758,0.9885715978293306,REG,OK,False,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.4212121335102072,0.9961534312458458,REG,OK,False,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.883382291666666,0.12120415342368704,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.8833031250000003,0.421933373357906,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),3.8857968749999996,0.5468445761604002,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),3.8861135416666666,0.582091684307289,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),3.886232291666666,0.64389113987279,REG,CHECK,True,ML 2 · Musician
+"Bedroom 3, mid, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),3.886845833333333,0.4305661449553159,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.009969791666666,0.7492457214923246,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.079523958333333,0.41455946533419274,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8107871154253444,0.9945921869808536,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8269630913851843,0.9969940613665146,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.8787231620301569,0.9658697602752652,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),3.0835812499999995,0.36871319345242565,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.662817708333333,0.9124266286662976,REG,OK,True,ML 2 · Musician
+"Lounge room, centre, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.662797916666666,0.3534027835812802,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8395852908432128,0.9967321507391409,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8366376054971177,0.9944799800845118,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7740880881158938,0.9923058103292031,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6929229871398591,0.9879957353007942,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),2.9234072916666665,0.7847422959911146,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),2.912403125,0.42758909153561564,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.9246855058542623,0.9879859719173002,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7806622015078093,0.9984156751662423,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.737743883084421,0.9984932738968411,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6663243714931153,0.9946938913845328,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.557044791666666,0.564538714268249,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.2458729166666664,0.3304156947095845,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.7761910335647336,0.995623075990645,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8630515302869023,0.98705110078834,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),3.2475947916666668,0.24380800930162982,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),3.2475947916666668,0.2042837359415831,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.3145499999999997,0.9706884531129063,REG,OK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.336578125,0.41603363709355945,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8432854603927715,0.9973742747509273,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8241861290900414,0.9978195873234211,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7564351499503884,0.9958484294023244,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),3.3373104166666665,0.4218582511190099,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.113909375,0.8068188289178492,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),5.0936625,0.6012811519830947,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),5.116046875,0.4149602601165244,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),5.116066666666667,0.3298636800057737,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.8018070444739597,0.9884088854727898,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),5.118204166666667,0.3149328611006966,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.420765625,0.4175759149843022,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.422289583333333,0.30367390869072003,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8262174672542449,0.9964540740866246,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8017521977473167,0.9984857295062634,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7156111644814431,0.9962893721303703,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),4.425001041666666,0.25189214588102465,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.695895833333333,0.6039949511434975,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.6886322916666665,0.33244330354564844,REG,CHECK,True,ML 2 · Musician
+"Lounge room, centre, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.817425051869057,0.996329009838562,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8164991744186638,0.9971750675883683,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7266407198854793,0.9979683861221913,REG,OK,False,ML 2 · Musician
+"Lounge room, centre, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6399495948022602,0.9988685145648479,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.617336458333333,0.4684222403817707,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.629765624999999,0.33753775880097386,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),4.631626041666666,0.3048810915794926,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7963560236779332,0.9978859238688109,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7681424246963758,0.9953949293973238,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),4.632892708333332,0.22147348747682424,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.5765062499999996,0.5631544226462745,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.587549999999999,0.5771114511169005,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),4.590795833333334,0.5234449517632895,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.590518749999999,0.3339841119920794,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),4.591072916666667,0.29960400002382914,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),4.591171875,0.5330171883836902,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.5132831129602177,0.967166279409833,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.6701864583333332,0.30881135451691927,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),3.6712354166666663,0.3041325401221569,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7858986658556923,0.9994426463190839,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7544781723045197,0.9946398864961487,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),3.6730166666666664,0.2477099065722533,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.951525,0.5031328886234608,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.952930208333333,0.40751289404421254,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),3.953385416666666,0.28698432337893204,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8333427627314262,0.9971797385739132,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),3.956413541666666,0.2664778743888573,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),3.9560177083333334,0.22472377600591245,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.4360510416666665,0.15174501151139785,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.437495833333333,0.3523399799294262,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),3.448975,0.37817428451254387,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.825198263393293,0.9952010045147754,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7509884572260692,0.9987680519603296,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6867058518694703,0.9950780487817268,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.7266520833333328,0.7586547497588181,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.7394177083333333,0.4338737586847534,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),1.01180827133523,0.9737899830682187,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8153236371511969,0.9982558705699793,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.747998684714351,0.9991983443972388,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.7233175700031911,0.9919461328136169,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),1.3677685609881982,0.9283969907017844,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.1288583333333335,0.2672391466811462,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.9430936723325747,0.9808360412942069,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8543120520937738,0.9943415913014799,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7531047177894452,0.9986217051878173,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),4.130639583333333,0.18620088989731126,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.9720093750000003,0.7017127416128821,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.9828354166666666,0.39013668166281584,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),3.9855864583333327,0.28003637135370457,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),3.9858041666666666,0.3025912761877445,REG,CHECK,True,ML 2 · Musician
+"Lounge room, corner, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.8994453616323663,0.9752668653308739,REG,OK,False,ML 2 · Musician
+"Lounge room, corner, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),3.9865958333333333,0.22708060845144207,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.752592708333333,0.7993975113900156,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.755897916666666,0.3529053266119125,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8004719780154279,0.9889780782410148,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7993476799058405,0.9931152307779022,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7312900786729415,0.9915891861681505,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),4.768485416666667,0.2298786643525972,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),1.5781007423404616,0.9457568996704049,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.12430625,0.2852877878546282,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8328403422711117,0.992159350129447,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7732820480848996,0.9979041403847685,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7160184082925328,0.9979602563986297,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6183335283137653,0.9978993007176873,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.368436458333333,0.6247666631845776,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.7025321403820606,0.9887889954695467,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.780688615173107,0.9968462770076446,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7840966058764811,0.9982927404418159,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.699057364891101,0.9989707193906479,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5880263146999818,0.9987888511001008,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.1184541666666665,0.9557292476702526,REG,OK,True,ML 2 · Musician
+"Lounge room, mid, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.1344458333333334,0.31899038266013063,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.940042822284384,0.9779513778998437,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.791259315445157,0.9974109203295338,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6822292397981324,0.996330443656064,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5660610708264876,0.9964364981910564,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),2.211220801632058,0.4936514739781477,REG,CHECK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.1961104166666665,0.3474071460028814,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),4.197634375,0.26010850017521997,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8330840536287258,0.998749053085922,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7397450436050004,0.9975831733897764,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6576514273142587,0.9973587594386824,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.654069791666666,0.8489150365617046,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.654109375,0.5986053636662337,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),4.655098958333333,0.5226116192424507,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8999337662312112,0.988903362653279,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7438136490319092,0.9974893596814165,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6456467843610837,0.9957078856485839,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.865603125,0.943454154623159,REG,OK,True,ML 2 · Musician
+"Lounge room, mid, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.866869791666667,0.5125395359707474,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),4.839280208333332,0.35988125074776484,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8457525386273855,0.9970242414468802,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7440249163638888,0.9971443155887374,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6251641627477166,0.9963316078237637,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.558020833333333,0.7567706929245313,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.546007291666666,0.455230438605156,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),4.572508333333333,0.3506159209453964,REG,CHECK,True,ML 2 · Musician
+"Lounge room, mid, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.8153617129336593,0.9994110222625979,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.748744198854909,0.9988916152220991,REG,OK,False,ML 2 · Musician
+"Lounge room, mid, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6866527877841561,0.997964481403815,REG,OK,False,ML 2 · Musician
+"Studio, centre, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.253440625,0.8572004733716247,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),5.231729166666666,0.2871757375270794,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.7263441930670418,0.9970164106114259,REG,OK,False,ML 2 · Musician
+"Studio, centre, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),5.28164375,0.2995416214475294,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),5.2811489583333335,0.4108280048557105,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),5.28188125,0.3043740313613031,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),6.148914583333333,0.7371133590164884,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.8977353055452274,0.9549646348871681,REG,OK,False,ML 2 · Musician
+"Studio, centre, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.7840770674627842,0.9955726180915441,REG,OK,False,ML 2 · Musician
+"Studio, centre, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),6.181194791666666,0.20729923702785233,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),6.1828375,0.42258132375511054,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),6.181234375,0.2820492835367182,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),2.0931902297830622,0.8622304880656206,REG,CHECK,False,ML 2 · Musician
+"Studio, centre, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.577495833333333,0.47431088045020237,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.7043714864743719,0.9979769455351922,REG,OK,False,ML 2 · Musician
+"Studio, centre, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.6702358991892658,0.9882364166660083,REG,OK,False,ML 2 · Musician
+"Studio, centre, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5954610963378673,0.9970985180619222,REG,OK,False,ML 2 · Musician
+"Studio, centre, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),4.641462499999999,0.2451149427597648,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.265104166666666,0.7467650076088057,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.8559044802385869,0.9571137772192027,REG,OK,False,ML 2 · Musician
+"Studio, centre, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.7544596657686398,0.9880243748621002,REG,OK,False,ML 2 · Musician
+"Studio, centre, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.6602260308183778,0.9937588443385237,REG,OK,False,ML 2 · Musician
+"Studio, centre, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5892163606287768,0.9962146367646121,REG,OK,False,ML 2 · Musician
+"Studio, centre, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5692223491230998,0.9969425469603906,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.396376041666667,0.8653942778149155,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.931679341112042,0.5819159133268612,REG,CHECK,False,ML 2 · Musician
+"Studio, centre, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.9191639167705205,0.9941511478666185,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.813165497480744,0.9946019037655668,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7620937660167504,0.9945756915758883,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.653953134365517,0.9918165037195608,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.635703125,0.9792098893211004,REG,OK,True,ML 2 · Musician
+"Studio, centre, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.620305208333334,0.706314390032878,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.826295826169237,0.9975130315765273,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),4.627608333333333,0.42375644685591624,REG,CHECK,True,ML 2 · Musician
+"Studio, centre, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.844892952135626,0.9762896064230216,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.7155228142405591,0.9709705788077942,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),,,NA,LOW,False,ML 2 · Musician
+"Studio, centre, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.6679915777152738,0.8102018168802203,REG,CHECK,False,ML 2 · Musician
+"Studio, centre, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.9578012028082356,0.9862355438406011,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.850208812621522,0.9881338472717051,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7407609837182618,0.9937689045047352,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5999662728880383,0.9973573460888425,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.553514583333333,0.9406328824632231,REG,OK,True,ML 2 · Musician
+"Studio, centre, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.8556072485637064,0.9726132753378768,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.861151892932294,0.9970560768552909,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.810914695073915,0.9931740384131891,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6973310727460889,0.9972732520823829,REG,OK,False,ML 2 · Musician
+"Studio, centre, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6645599694508111,0.995511735040262,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.3543114583333336,0.8197865956748204,REG,CHECK,True,ML 2 · Musician
+"Studio, corner, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.0345911557262697,0.9194613840017857,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.7245829868466229,0.9984162706731043,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.6133265394534413,0.997018760920551,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6042738581106729,0.9982871350893581,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5802670318818239,0.9982555770060354,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.224867708333333,0.7236302052425343,REG,CHECK,True,ML 2 · Musician
+"Studio, corner, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.226292708333333,0.2972915645587284,REG,CHECK,True,ML 2 · Musician
+"Studio, corner, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.808959193091491,0.9952287218945647,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.6426900114347103,0.9963137132042346,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6222936946748009,0.9916658605408339,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5839939254103146,0.9948476789300366,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.714830208333334,0.7955835203377313,REG,CHECK,True,ML 2 · Musician
+"Studio, corner, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.0975214811826568,0.9024397085570257,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.755818459175207,0.9967716641831775,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.6221999547407926,0.9990398076123975,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6280948323301928,0.9975074570752421,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5655136501023968,0.9965249514620844,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.7896592995515925,0.9286983850466967,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.099753124884513,0.9189352953318839,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.7095728974007794,0.9970436817661913,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.5940878345146123,0.997699014936783,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6165967586244055,0.998592395917688,REG,OK,False,ML 2 · Musician
+"Studio, corner, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5517659756974144,0.9969325607394256,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.353572916666667,0.7159674628831061,REG,CHECK,True,ML 2 · Musician
+"Studio, corner, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.8794803089611919,0.9637417903152061,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8661755491972143,0.99690217650797,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.6825568084044589,0.995750408839842,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7143532263233715,0.9957420309849164,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6438963212543339,0.9943733196533109,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.32309375,0.6613576820383171,REG,CHECK,True,ML 2 · Musician
+"Studio, corner, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.327151041666666,0.6480639152996907,REG,CHECK,True,ML 2 · Musician
+"Studio, corner, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.899324589810739,0.9958748658264264,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.6911343803581917,0.9961775273203654,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7069865444093412,0.9987877683282337,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6349755387783163,0.9981755507629227,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.024193749999999,0.9804624528165609,REG,OK,True,ML 2 · Musician
+"Studio, corner, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.1317558739593392,0.9084038490649794,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8532635582340287,0.9948209901145503,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.6915875307929062,0.9970231134203091,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6856610934267577,0.9950678789511432,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6027198936462911,0.9940117608790696,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),1.1216367320228942,0.8767041417600464,REG,CHECK,False,ML 2 · Musician
+"Studio, corner, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.8982493476286819,0.9796262601006935,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8430560459878849,0.9950007347026851,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7502474004725627,0.9950286339919096,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7139884051302731,0.997401489939064,REG,OK,False,ML 2 · Musician
+"Studio, corner, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6223291121433756,0.9977428736207634,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.697274999999999,0.8682405273651119,REG,CHECK,True,ML 2 · Musician
+"Studio, mid, closed, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.65393125,0.43145728211053086,REG,CHECK,True,ML 2 · Musician
+"Studio, mid, closed, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.8018148278888368,0.9826769451414126,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.679656622791777,0.9927658580118375,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6060775657346255,0.9989380185801747,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6046611238195886,0.99449346340325,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.848701041666667,0.9342740603092917,REG,OK,True,ML 2 · Musician
+"Studio, mid, closed, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),2.7882557346995895,0.7551208368292746,REG,CHECK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),0.9635306560320003,0.9630860030871551,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7319250335300588,0.9835425669662275,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6602913737014386,0.994157272353642,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),4.869165625,0.2510392412040619,REG,CHECK,True,ML 2 · Musician
+"Studio, mid, closed, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),3.811439583333333,0.924553169612985,REG,OK,True,ML 2 · Musician
+"Studio, mid, closed, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),3.76686875,0.6149248314990046,REG,CHECK,True,ML 2 · Musician
+"Studio, mid, closed, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.7823064608400372,0.9914825903990655,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.6037150364711718,0.9973779060428482,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.6024322957066376,0.998923229725347,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.548983183796541,0.9991204947219765,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),1.2570286036882226,0.8077419897471863,REG,CHECK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.0398912522893418,0.9573781595180164,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.7288228297475784,0.9984273147240996,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.629387218600207,0.9957450481362159,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.5989440624718972,0.9984042979834922,REG,OK,False,ML 2 · Musician
+"Studio, mid, closed, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.5576655397025011,0.9983218153228863,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 1.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),5.343730208333334,0.2889092712593086,REG,CHECK,True,ML 2 · Musician
+"Studio, mid, open, phone, 1.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),0.8750569803287345,0.989407161507425,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 1.m4a",500.0,2000.0,Mid,Mid (500–2k),0.9421086533034951,0.9894595227705962,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 1.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.77841559998568,0.9963583103979371,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 1.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7098925284211495,0.9973561405557296,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 1.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6889801064388583,0.994361171314704,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 2.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.6500125,0.8517832912393317,REG,CHECK,True,ML 2 · Musician
+"Studio, mid, open, phone, 2.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.6282218749999995,0.665263840094947,REG,CHECK,True,ML 2 · Musician
+"Studio, mid, open, phone, 2.m4a",500.0,2000.0,Mid,Mid (500–2k),4.679284375,0.43080210835883004,REG,CHECK,True,ML 2 · Musician
+"Studio, mid, open, phone, 2.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),1.1024460352085628,0.929012997168104,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 2.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7979980826139244,0.9879493937291394,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 2.m4a",6000.0,20000.0,Air,Air (6k–20k),1.0896262755652153,0.9042964166853704,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 3.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),4.774996875,0.8783328282364525,REG,CHECK,True,ML 2 · Musician
+"Studio, mid, open, phone, 3.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),1.067217625340236,0.9690620478796782,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 3.m4a",500.0,2000.0,Mid,Mid (500–2k),0.9053239047445119,0.9963544022553776,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 3.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.7621708736627681,0.9955904169921864,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 3.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7378832188023458,0.994298458145415,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 3.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6881566075041711,0.9940792653148269,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 4.m4a",20.0,250.0,Sub/Bass,Sub/Bass (20–250),0.17646969436853366,0.942687908398686,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 4.m4a",250.0,500.0,Low-Mid,Low-Mid (250–500),4.160841666666666,0.353782932666433,REG,CHECK,True,ML 2 · Musician
+"Studio, mid, open, phone, 4.m4a",500.0,2000.0,Mid,Mid (500–2k),0.9019511118130836,0.9850517968412532,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 4.m4a",2000.0,4000.0,High-Mid,High-Mid (2k–4k),0.807696934805095,0.9919565430300528,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 4.m4a",4000.0,6000.0,Presence,Presence (4k–6k),0.7484481024120445,0.9958756887785057,REG,OK,False,ML 2 · Musician
+"Studio, mid, open, phone, 4.m4a",6000.0,20000.0,Air,Air (6k–20k),0.6718263857060309,0.9931750895110639,REG,OK,False,ML 2 · Musician

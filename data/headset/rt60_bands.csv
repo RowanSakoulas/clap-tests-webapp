@@ -1,0 +1,401 @@
+file,band_lo_hz,band_hi_hz,band_label,band_tag,rt60_s,r2,method,quality,capped,mode
+"Bathroom, centre, closed, mic, 1.m4a",125.0,250.0,,125–250,3.250167708333333,0.772365428040245,REG,CHECK,True,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 1.m4a",250.0,500.0,,250–500,1.3585745618135479,0.9610755396555482,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 1.m4a",500.0,2000.0,,500–2k,1.1078108991992643,0.9996354969389799,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.9649477086297014,0.9997223487285968,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.846493840536392,0.99964499034734,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 2.m4a",125.0,250.0,,125–250,4.812858333333333,0.5605872508488774,REG,CHECK,True,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 2.m4a",250.0,500.0,,250–500,1.0683131834753312,0.997218123329153,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 2.m4a",500.0,2000.0,,500–2k,1.2883466157004781,0.9990022617791013,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.9953732121582376,0.99938034043584,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.8361405396390654,0.9987842533794237,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 3.m4a",125.0,250.0,,125–250,5.461114583333334,0.7649815889221361,REG,CHECK,True,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 3.m4a",250.0,500.0,,250–500,1.1889829245135695,0.9964434228314664,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 3.m4a",500.0,2000.0,,500–2k,1.4538524518986378,0.9920627655448967,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.9592146548809392,0.9990215085839034,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.8575846531052871,0.9997548979431838,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 4.m4a",125.0,250.0,,125–250,5.785836458333333,0.7575733116163204,REG,CHECK,True,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 4.m4a",250.0,500.0,,250–500,1.129873321446359,0.9901580034377321,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 4.m4a",500.0,2000.0,,500–2k,1.2704218960511549,0.9983541581550324,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 4.m4a",2000.0,4000.0,,2k–4k,1.0068842401875457,0.9993348848633989,REG,OK,False,ML Test · Phone-safe
+"Bathroom, centre, closed, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.8606916848447331,0.9995232715337221,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 1.m4a",125.0,250.0,,125–250,0.8688691759661296,0.9909050294451931,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 1.m4a",250.0,500.0,,250–500,0.9834128408367804,0.9945542815385656,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 1.m4a",500.0,2000.0,,500–2k,1.097483065354851,0.9991130043313624,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.9684308034717399,0.9995928467910201,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.8453344415124404,0.999439421702332,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 2.m4a",125.0,250.0,,125–250,4.105385416666667,0.5054484531211001,REG,CHECK,True,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 2.m4a",250.0,500.0,,250–500,1.0353342193705928,0.9992240441723527,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 2.m4a",500.0,2000.0,,500–2k,1.249746342049027,0.996378049254241,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.9589083159242892,0.9991082970983499,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.8126058372440429,0.9990638311275802,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 3.m4a",125.0,250.0,,125–250,3.75166875,0.7041653261903054,REG,CHECK,True,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 3.m4a",250.0,500.0,,250–500,1.277333670816425,0.996253888349473,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 3.m4a",500.0,2000.0,,500–2k,1.2239385371730382,0.9988342952512794,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.970866500162959,0.9990411859083707,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.8415966354579474,0.9996307090305698,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 4.m4a",125.0,250.0,,125–250,3.2476739583333334,0.5633086212065727,REG,CHECK,True,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 4.m4a",250.0,500.0,,250–500,1.1150816745494683,0.9951258943067695,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 4.m4a",500.0,2000.0,,500–2k,1.3819803855787223,0.9988559820526136,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.9314671448800163,0.999002356602005,REG,OK,False,ML Test · Phone-safe
+"Bathroom, corner, closed, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.8406113664185546,0.9993733030571157,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 1.m4a",125.0,250.0,,125–250,0.24260444828645772,0.8954653040073429,REG,CHECK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 1.m4a",250.0,500.0,,250–500,6.2593125,0.2203778418751205,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 1.m4a",500.0,2000.0,,500–2k,0.662143604105213,0.9357902388629835,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.6430441194386325,0.9423227530527046,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.6140891039275685,0.9296332493190556,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 2.m4a",125.0,250.0,,125–250,4.503653125,0.24896226286917217,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 2.m4a",250.0,500.0,,250–500,0.5037945876919793,0.9701589625261556,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 2.m4a",500.0,2000.0,,500–2k,0.4227229222417224,0.9847966642897991,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.4622401194641848,0.9949809571106791,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.4084612423229508,0.9939737372221195,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 3.m4a",125.0,250.0,,125–250,5.693152083333333,0.8649395884290645,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 3.m4a",250.0,500.0,,250–500,5.691628124999999,0.6795025704212464,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 3.m4a",500.0,2000.0,,500–2k,0.48211099645607053,0.9910534576665629,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.4728203878476341,0.998426234344993,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.4360753980354985,0.9956818335311773,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 4.m4a",125.0,250.0,,125–250,4.1745375000000005,0.5029798591700857,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 4.m4a",250.0,500.0,,250–500,2.5074385462654605,0.593217415115324,REG,CHECK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 4.m4a",500.0,2000.0,,500–2k,0.47492400253723993,0.996067137470063,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.45743094696498127,0.9989465435593521,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, closed, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.43457052225833065,0.9947352877821234,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 1.m4a",125.0,250.0,,125–250,4.172380208333333,0.5353966083583988,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 1.m4a",250.0,500.0,,250–500,0.9766624147357833,0.8024756489441198,REG,CHECK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 1.m4a",500.0,2000.0,,500–2k,0.43682072096082447,0.991461318505909,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.47460143666059074,0.9971608569899776,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.40312008303063845,0.9964611439516425,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 2.m4a",125.0,250.0,,125–250,3.3677104166666663,0.897260498370524,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 2.m4a",250.0,500.0,,250–500,0.9653671586949335,0.8147742819238811,REG,CHECK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 2.m4a",500.0,2000.0,,500–2k,0.4556249766559471,0.9945880356670168,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.4447833352909091,0.9976206750411647,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.3958599517720339,0.9920593752290637,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 3.m4a",125.0,250.0,,125–250,0.3306303980509491,0.967551331078844,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 3.m4a",250.0,500.0,,250–500,0.451193593940304,0.9879028861489114,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 3.m4a",500.0,2000.0,,500–2k,0.4491985097858184,0.9948023411124609,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.43534288527392334,0.9974589157591239,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.3980646333008093,0.9950388874567055,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 4.m4a",125.0,250.0,,125–250,0.18637664472671225,0.9872621895705731,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 4.m4a",250.0,500.0,,250–500,0.48889352682198595,0.9939509500964336,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 4.m4a",500.0,2000.0,,500–2k,0.4672512766738749,0.9975262311098504,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.43898966963249386,0.9951070254986352,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, centre, open, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.39933473188649954,0.9958297118465905,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 1.m4a",125.0,250.0,,125–250,4.127275,0.36519845872351137,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 1.m4a",250.0,500.0,,250–500,0.4835099171422065,0.9888325190877504,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 1.m4a",500.0,2000.0,,500–2k,0.5117288572535573,0.997926648262805,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.4906868028808101,0.9979926134995843,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.45510821968829346,0.9978496066788891,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 2.m4a",125.0,250.0,,125–250,4.905582291666667,0.39340904901114965,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 2.m4a",250.0,500.0,,250–500,0.48026625634425224,0.9891404788485983,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 2.m4a",500.0,2000.0,,500–2k,0.5078096190446686,0.9982556958412027,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.4791246298157324,0.9980323717500831,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.44159796509641663,0.9974829242848424,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 3.m4a",125.0,250.0,,125–250,4.488136458333334,0.3702205797364914,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 3.m4a",250.0,500.0,,250–500,0.6053771640095903,0.9750428774833696,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 3.m4a",500.0,2000.0,,500–2k,0.4928771542251363,0.9985887961102028,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.44664632736947035,0.9967628184317374,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.42353556717335605,0.9955546050507774,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 4.m4a",125.0,250.0,,125–250,4.795916666666666,0.8055044376475903,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 4.m4a",250.0,500.0,,250–500,0.5557384171041839,0.9662842128896463,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 4.m4a",500.0,2000.0,,500–2k,0.4955945072034302,0.9967747000527258,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.4929365486114899,0.9964865812464055,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, closed, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.42859179468346026,0.9945739947270211,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 1.m4a",125.0,250.0,,125–250,10.250499999999999,0.8987484472657129,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 1.m4a",250.0,500.0,,250–500,10.239990624999999,0.8196708158208671,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 1.m4a",500.0,2000.0,,500–2k,2.9826619800466996,0.5128858508983655,REG,CHECK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.4300416538827481,0.9889318719617273,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.38332156179496146,0.970782338435927,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 2.m4a",125.0,250.0,,125–250,5.017286458333333,0.8897971046945945,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 2.m4a",250.0,500.0,,250–500,5.015722916666666,0.39278670411329036,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 2.m4a",500.0,2000.0,,500–2k,0.45323261919533947,0.9849068022343792,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.3922026837756675,0.9656039453890695,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.37632407325813083,0.9820384176714017,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 3.m4a",125.0,250.0,,125–250,0.9660708333333333,0.6310870066254961,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 3.m4a",250.0,500.0,,250–500,0.4737025984956872,0.9718158311699049,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 3.m4a",500.0,2000.0,,500–2k,0.4231710933243524,0.9938998830546595,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.414716086122024,0.9883471072852689,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.4038867499093085,0.9904522831747328,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 4.m4a",125.0,250.0,,125–250,4.867423958333333,0.3457335864747577,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 4.m4a",250.0,500.0,,250–500,0.4196215687630466,0.9751819942148947,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 4.m4a",500.0,2000.0,,500–2k,0.43860191129675596,0.985617109114711,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.3904938760398266,0.9721060674678352,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, corner, open, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.3669392819880693,0.9750926864884674,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 1.m4a",125.0,250.0,,125–250,1.2045921211738997,0.7566255132384951,REG,CHECK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 1.m4a",250.0,500.0,,250–500,0.45569658004725305,0.9708048096310022,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 1.m4a",500.0,2000.0,,500–2k,0.4693592942304302,0.9970094447467592,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.4808633136756057,0.9994945201246382,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.47994435022378096,0.9981392939112461,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 2.m4a",125.0,250.0,,125–250,3.389758333333333,0.6128596889285511,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 2.m4a",250.0,500.0,,250–500,0.5405672089149618,0.9833455408049412,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 2.m4a",500.0,2000.0,,500–2k,0.48313699287067624,0.9975608397460507,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.4745136195518261,0.9972333339451753,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.44004862889896573,0.997807396312503,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 3.m4a",125.0,250.0,,125–250,2.6381697916666664,0.508641475547167,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 3.m4a",250.0,500.0,,250–500,0.7369383696350508,0.9307886029592716,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 3.m4a",500.0,2000.0,,500–2k,0.47206545169102404,0.9973689613027802,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.46845887631998895,0.9981240507205213,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.4442819773719598,0.9976270569606364,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 4.m4a",125.0,250.0,,125–250,5.021502083333333,0.6404682975218408,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 4.m4a",250.0,500.0,,250–500,5.020176041666666,0.3290291790132923,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 4.m4a",500.0,2000.0,,500–2k,0.505215479855472,0.9984161645756814,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.5005665155127715,0.9982477534560041,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, closed, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.46854334700327227,0.9973203665808807,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 1.m4a",125.0,250.0,,125–250,0.5380338722338076,0.9014281966002046,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 1.m4a",250.0,500.0,,250–500,0.48788064644096346,0.9854739602869801,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 1.m4a",500.0,2000.0,,500–2k,0.4727875004802089,0.9969534462147938,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.44349299886218724,0.9981346259097161,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.42082788641347413,0.9969727511891019,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 2.m4a",125.0,250.0,,125–250,3.55121875,0.7445597071788749,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 2.m4a",250.0,500.0,,250–500,3.555295833333333,0.4088997950396046,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 2.m4a",500.0,2000.0,,500–2k,0.4652326763157676,0.9914932904314141,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.4616120943663756,0.9973880132287182,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.41741134894318493,0.9978806612037415,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 3.m4a",125.0,250.0,,125–250,3.5142479166666667,0.4893613030164311,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 3.m4a",250.0,500.0,,250–500,0.49561021182138776,0.9816050861136866,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 3.m4a",500.0,2000.0,,500–2k,0.45253595729506074,0.9868892559661316,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.4375798541682264,0.9987902454907147,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.4084344717518919,0.9979838579694953,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 4.m4a",125.0,250.0,,125–250,4.4262875,0.5879156791528951,REG,CHECK,True,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 4.m4a",250.0,500.0,,250–500,0.5000563028279589,0.9576892275063944,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 4.m4a",500.0,2000.0,,500–2k,0.44807964656273047,0.9975683250939141,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.4542790373751702,0.9958282057624276,REG,OK,False,ML Test · Phone-safe
+"Bedroom 1, mid, open, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.4191965249128124,0.9968628082074248,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 1.m4a",125.0,250.0,,125–250,4.59930625,0.7787908010781065,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 1.m4a",250.0,500.0,,250–500,0.9960868563239617,0.9376032758428309,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 1.m4a",500.0,2000.0,,500–2k,0.6756992070437068,0.9929630130715031,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.6964627843614262,0.996791565274398,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.5876949786347304,0.9850463481172897,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 2.m4a",125.0,250.0,,125–250,4.5883416666666665,0.9549969488054261,REG,OK,True,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 2.m4a",250.0,500.0,,250–500,4.606055208333333,0.6421871029466522,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 2.m4a",500.0,2000.0,,500–2k,0.8131159864733771,0.9860439816283364,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.7870109832345147,0.9909839088435168,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.6458661357781292,0.9936117922096266,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 3.m4a",125.0,250.0,,125–250,5.285701041666667,0.804982667070798,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 3.m4a",250.0,500.0,,250–500,3.2243395833333333,0.6350398590010845,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 3.m4a",500.0,2000.0,,500–2k,0.7278627131000015,0.9928558249217232,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.7296530452198954,0.9982901411050362,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.6095437022862176,0.9974336178078669,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 4.m4a",125.0,250.0,,125–250,3.548942708333333,0.8634754393365125,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 4.m4a",250.0,500.0,,250–500,3.547596875,0.4449618966002041,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 4.m4a",500.0,2000.0,,500–2k,0.7015016896524504,0.9963512820482848,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.6973670824251138,0.9962358071157983,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, closed, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.6253055877355794,0.9949794512032891,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 1 2.m4a",125.0,250.0,,125–250,3.842096875,0.8246592074124749,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 1 2.m4a",250.0,500.0,,250–500,0.8527913185333001,0.9710679317550651,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 1 2.m4a",500.0,2000.0,,500–2k,0.7911898493410482,0.9984770153018028,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 1 2.m4a",2000.0,4000.0,,2k–4k,0.7717580808757141,0.9979595318156217,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 1 2.m4a",4000.0,8000.0,,4k–8k,0.6804467920104373,0.9991712599124466,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 1.m4a",125.0,250.0,,125–250,5.838561458333333,0.8503556419093771,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 1.m4a",250.0,500.0,,250–500,5.836720833333333,0.350151007992094,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 1.m4a",500.0,2000.0,,500–2k,0.7792880810965548,0.9987017995093176,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.7672795793527966,0.9981251289768428,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.6340733174876636,0.9981122031360673,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 2.m4a",125.0,250.0,,125–250,4.450928124999999,0.8920952616291792,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 2.m4a",250.0,500.0,,250–500,4.430879166666666,0.4347125967071813,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 2.m4a",500.0,2000.0,,500–2k,0.7292176124889639,0.9977173219518504,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.7769546426032743,0.9988454957424543,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.6873575438490215,0.9973095269804633,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 3.m4a",125.0,250.0,,125–250,4.612170833333334,0.9029476133320108,REG,OK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 3.m4a",250.0,500.0,,250–500,4.595427083333333,0.7621951769970248,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 3.m4a",500.0,2000.0,,500–2k,0.7715196535254794,0.9962937503442477,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.8260732262063822,0.9954053355445428,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.6659683372748054,0.9956515030937524,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 4.m4a",125.0,250.0,,125–250,4.299561458333334,0.2623988277154397,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 4.m4a",250.0,500.0,,250–500,0.5558272459568074,0.9687918476237758,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 4.m4a",500.0,2000.0,,500–2k,0.7397648682341363,0.9924545876247011,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.7429606866095181,0.9969150294946708,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.6102900386009451,0.9837643857334306,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 5.m4a",125.0,250.0,,125–250,5.641614583333333,0.820697006119696,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 5.m4a",250.0,500.0,,250–500,3.741753125,0.5839186902182133,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 5.m4a",500.0,2000.0,,500–2k,0.7671303466080927,0.998066569098735,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 5.m4a",2000.0,4000.0,,2k–4k,0.7494152978183597,0.9989001567650063,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 5.m4a",4000.0,8000.0,,4k–8k,0.6578108928990701,0.9982336861356426,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 6.m4a",125.0,250.0,,125–250,3.7285125,0.9147998235447129,REG,OK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 6.m4a",250.0,500.0,,250–500,3.7285322916666668,0.649804842420859,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 6.m4a",500.0,2000.0,,500–2k,0.8338209272477104,0.9910349988762867,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 6.m4a",2000.0,4000.0,,2k–4k,0.8221302333348772,0.9966257747915772,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 6.m4a",4000.0,8000.0,,4k–8k,0.6744441082082707,0.9951891177536819,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 7.m4a",125.0,250.0,,125–250,4.163909375,0.7387762791600069,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 7.m4a",250.0,500.0,,250–500,0.7208186293964851,0.9962520366318338,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 7.m4a",500.0,2000.0,,500–2k,0.7982007312264754,0.9983622276750787,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 7.m4a",2000.0,4000.0,,2k–4k,0.7508621763869615,0.9978059525142827,REG,OK,False,ML Test · Phone-safe
+"Lounge room, centre, open, mic, 7.m4a",4000.0,8000.0,,4k–8k,0.6765813154445771,0.9954354085556841,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 1.m4a",125.0,250.0,,125–250,4.017985416666667,0.8679200707147545,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 1.m4a",250.0,500.0,,250–500,2.0441271157073095,0.7199191787861894,REG,CHECK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 1.m4a",500.0,2000.0,,500–2k,0.6803212508640047,0.9952093153459257,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.6792467246226321,0.9941511228412522,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.6245753038150144,0.9967382988007882,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 2.m4a",125.0,250.0,,125–250,4.062101041666667,0.8430546262171239,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 2.m4a",250.0,500.0,,250–500,0.7675356300495491,0.9900822729223512,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 2.m4a",500.0,2000.0,,500–2k,0.7200202261633426,0.9951207755340028,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.7340168267184717,0.9982233321488962,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.6546342673035382,0.9982434789410036,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 3.m4a",125.0,250.0,,125–250,4.351534375,0.7914108310549893,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 3.m4a",250.0,500.0,,250–500,0.642972095110562,0.9877515613198721,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 3.m4a",500.0,2000.0,,500–2k,0.7433722963615799,0.9973902431912176,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.7442169129030567,0.9977881916236145,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.6230576298788105,0.9981256797334923,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 4.m4a",125.0,250.0,,125–250,5.6104625,0.2432969695401826,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 4.m4a",250.0,500.0,,250–500,5.731923958333333,0.23022319701215088,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 4.m4a",500.0,2000.0,,500–2k,0.8982170991162637,0.9705590242966293,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.7762929293777762,0.9914969372019622,REG,OK,False,ML Test · Phone-safe
+"Lounge room, corner, closed, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.7741616291046729,0.9771037168521018,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 1.m4a",125.0,250.0,,125–250,0.7891899321500129,0.9570701320529508,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 1.m4a",250.0,500.0,,250–500,0.6165059614691134,0.9917088771283652,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 1.m4a",500.0,2000.0,,500–2k,0.6520558183968983,0.9966663980237036,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.7100457270573983,0.9968850729214966,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.6094681832339686,0.9968494421474469,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 2.m4a",125.0,250.0,,125–250,4.6460937499999995,0.4988089463272766,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 2.m4a",250.0,500.0,,250–500,0.6236856140291819,0.9787416314614824,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 2.m4a",500.0,2000.0,,500–2k,0.7112662603804191,0.9941559133233877,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.7138088143371795,0.9977212013874682,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.5984225750498139,0.9973399176946792,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 3.m4a",125.0,250.0,,125–250,4.435926041666667,0.5974396475955612,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 3.m4a",250.0,500.0,,250–500,0.6126761347342358,0.9845637489164027,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 3.m4a",500.0,2000.0,,500–2k,0.6729974320842665,0.9883153187655157,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.6954326328290799,0.9939713313511328,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.6056458175960701,0.9961867088061881,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 4.m4a",125.0,250.0,,125–250,5.167089583333333,0.9181448919102319,REG,OK,True,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 4.m4a",250.0,500.0,,250–500,5.162834375,0.5955893866645755,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 4.m4a",500.0,2000.0,,500–2k,0.7802717400389607,0.9948474868629398,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.7137907657967877,0.9980406983748388,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, closed, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.6426222562974768,0.9982445658069385,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 1.m4a",125.0,250.0,,125–250,2.8741854166666667,0.700246167588971,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 1.m4a",250.0,500.0,,250–500,0.9818189649259498,0.9159198451247136,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 1.m4a",500.0,2000.0,,500–2k,0.6817051223978373,0.9937636904515041,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.772076393456488,0.9980513138979894,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.6551825970820173,0.9977603174846343,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 2.m4a",125.0,250.0,,125–250,3.549239583333333,0.7774438985890194,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 2.m4a",250.0,500.0,,250–500,0.7556254366088729,0.9528090820101426,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 2.m4a",500.0,2000.0,,500–2k,0.7691962329834071,0.9984306838120632,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.7649899774227491,0.9990978448504776,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.6404427928006495,0.9973397636415237,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 3.m4a",125.0,250.0,,125–250,2.2410697916666664,0.5848601442789355,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 3.m4a",250.0,500.0,,250–500,0.6369026697045348,0.9882046811596992,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 3.m4a",500.0,2000.0,,500–2k,0.7255276441091502,0.9969507955554978,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.7572069720383903,0.9964613868411876,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.664759250562707,0.9978886768468472,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 4.m4a",125.0,250.0,,125–250,5.095483333333333,0.089022851120246,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 4.m4a",250.0,500.0,,250–500,5.091623958333333,0.22858830220352044,REG,CHECK,True,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 4.m4a",500.0,2000.0,,500–2k,0.7313638945736827,0.9973114496763471,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.753428410581746,0.9978944616269595,REG,OK,False,ML Test · Phone-safe
+"Lounge room, mid, open, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.6593216338312291,0.9959749960755152,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 1.m4a",125.0,250.0,,125–250,4.332138541666667,0.7487630740037938,REG,CHECK,True,ML Test · Phone-safe
+"Studio, centre, closed, mic, 1.m4a",250.0,500.0,,250–500,1.9207336428880915,0.8093794088100709,REG,CHECK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 1.m4a",500.0,2000.0,,500–2k,0.6320029939406246,0.985020129935974,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.5360508789097835,0.9970065962710002,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.5042147942857115,0.9989944943436331,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 2.m4a",125.0,250.0,,125–250,3.1548708333333333,0.8451964167658577,REG,CHECK,True,ML Test · Phone-safe
+"Studio, centre, closed, mic, 2.m4a",250.0,500.0,,250–500,3.2392229166666664,0.5344080456784005,REG,CHECK,True,ML Test · Phone-safe
+"Studio, centre, closed, mic, 2.m4a",500.0,2000.0,,500–2k,0.5923240683305527,0.9939601181633061,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.5757665115328071,0.9978051923926453,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.49692749132242897,0.9972712973832839,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 3.m4a",125.0,250.0,,125–250,4.581177083333333,0.7969655970344183,REG,CHECK,True,ML Test · Phone-safe
+"Studio, centre, closed, mic, 3.m4a",250.0,500.0,,250–500,0.6789325711637476,0.991611750828777,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 3.m4a",500.0,2000.0,,500–2k,0.6455342898115484,0.9952872101868946,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.5769082012083332,0.9980855556681376,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.5759670687546549,0.9957055034406157,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 4.m4a",125.0,250.0,,125–250,4.599583333333333,0.7319351676134027,REG,CHECK,True,ML Test · Phone-safe
+"Studio, centre, closed, mic, 4.m4a",250.0,500.0,,250–500,1.2641555604240626,0.8683479811382651,REG,CHECK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 4.m4a",500.0,2000.0,,500–2k,0.6415866485043065,0.995465474593973,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.5783302556489247,0.9956831892559086,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, closed, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.5657316239804604,0.9954815996593886,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 1.m4a",125.0,250.0,,125–250,4.504603125,0.5233469205303444,REG,CHECK,True,ML Test · Phone-safe
+"Studio, centre, open, mic, 1.m4a",250.0,500.0,,250–500,0.805895934151993,0.9865116008687677,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 1.m4a",500.0,2000.0,,500–2k,0.766809433578954,0.989967125943287,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.6751057729444703,0.9906598163511473,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.618863016470115,0.9933632628068687,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 2.m4a",125.0,250.0,,125–250,3.6645260416666665,0.9051289103471293,REG,OK,True,ML Test · Phone-safe
+"Studio, centre, open, mic, 2.m4a",250.0,500.0,,250–500,3.6648031249999997,0.8163916491129047,REG,CHECK,True,ML Test · Phone-safe
+"Studio, centre, open, mic, 2.m4a",500.0,2000.0,,500–2k,1.956518548180485,0.7711273944828816,REG,CHECK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.7806078646614654,0.9789515733544227,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.5945732472530931,0.9910213855915487,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 3.m4a",125.0,250.0,,125–250,3.571564583333333,0.7710003463858971,REG,CHECK,True,ML Test · Phone-safe
+"Studio, centre, open, mic, 3.m4a",250.0,500.0,,250–500,0.8376945642091373,0.9686585077090262,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 3.m4a",500.0,2000.0,,500–2k,0.7567573205317842,0.9961408070605903,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.6551020118696912,0.9931742217584218,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.6267214384039723,0.991017810006096,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 4.m4a",125.0,250.0,,125–250,4.951479166666666,0.663962422220943,REG,CHECK,True,ML Test · Phone-safe
+"Studio, centre, open, mic, 4.m4a",250.0,500.0,,250–500,0.6942346912236671,0.9859031476315074,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 4.m4a",500.0,2000.0,,500–2k,0.7824365765768689,0.9931241353118208,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.7129289931502009,0.9873717020639566,REG,OK,False,ML Test · Phone-safe
+"Studio, centre, open, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.671914738144093,0.9854941994836195,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 1.m4a",125.0,250.0,,125–250,3.8933375,0.4355368191094341,REG,CHECK,True,ML Test · Phone-safe
+"Studio, corner, closed, mic, 1.m4a",250.0,500.0,,250–500,0.698238132309613,0.9845511067837635,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 1.m4a",500.0,2000.0,,500–2k,0.6448709139648918,0.9947693851350734,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.5570465319992124,0.9958380909838809,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.5031585526594187,0.9953255724866441,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 2.m4a",125.0,250.0,,125–250,4.126047916666666,0.6387692081120522,REG,CHECK,True,ML Test · Phone-safe
+"Studio, corner, closed, mic, 2.m4a",250.0,500.0,,250–500,0.6722821879485871,0.9828641988395328,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 2.m4a",500.0,2000.0,,500–2k,0.6685498938553744,0.9962081944798139,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.5987175635988699,0.9949803410376195,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.5261791237282556,0.9966460024988156,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 3.m4a",125.0,250.0,,125–250,4.194863541666667,0.49352742490560386,REG,CHECK,True,ML Test · Phone-safe
+"Studio, corner, closed, mic, 3.m4a",250.0,500.0,,250–500,0.7402033117561458,0.965895064239925,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 3.m4a",500.0,2000.0,,500–2k,0.6758680700576616,0.9956446397136569,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.5657435262481434,0.9979373657589742,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.5507838591002612,0.9884670110454529,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 4.m4a",125.0,250.0,,125–250,3.9325249999999996,0.4630115859196793,REG,CHECK,True,ML Test · Phone-safe
+"Studio, corner, closed, mic, 4.m4a",250.0,500.0,,250–500,3.929417708333333,0.5724687326486763,REG,CHECK,True,ML Test · Phone-safe
+"Studio, corner, closed, mic, 4.m4a",500.0,2000.0,,500–2k,0.7010335544575075,0.9945053445681646,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.556235596707681,0.9982121955768185,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, closed, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.5671601593452693,0.9988097631643563,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 1.m4a",125.0,250.0,,125–250,4.1848093749999995,0.7163614662710294,REG,CHECK,True,ML Test · Phone-safe
+"Studio, corner, open, mic, 1.m4a",250.0,500.0,,250–500,0.6913789279149423,0.9785295961350282,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 1.m4a",500.0,2000.0,,500–2k,0.7088339038208994,0.995861932481964,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.6265716073421521,0.9898122652479703,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.6096729792922804,0.99424983105103,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 2.m4a",125.0,250.0,,125–250,4.572013541666667,0.4149303084357407,REG,CHECK,True,ML Test · Phone-safe
+"Studio, corner, open, mic, 2.m4a",250.0,500.0,,250–500,0.6205133322680086,0.9960725295848455,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 2.m4a",500.0,2000.0,,500–2k,0.7266044063978888,0.993385916881826,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.653735985814814,0.990140897086007,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.607966680415376,0.9939505032874996,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 3.m4a",125.0,250.0,,125–250,4.727675,0.6676098071665334,REG,CHECK,True,ML Test · Phone-safe
+"Studio, corner, open, mic, 3.m4a",250.0,500.0,,250–500,0.5627875312824611,0.968451831329587,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 3.m4a",500.0,2000.0,,500–2k,0.7291808079050078,0.9941609343835908,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.5695082313541868,0.9819418924059634,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.5697080043841929,0.985666642649993,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 4.m4a",125.0,250.0,,125–250,3.914672916666666,0.42621390449086155,REG,CHECK,True,ML Test · Phone-safe
+"Studio, corner, open, mic, 4.m4a",250.0,500.0,,250–500,0.629246322310568,0.9783042636423195,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 4.m4a",500.0,2000.0,,500–2k,0.784586761234202,0.9940424986817282,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.5716236753315456,0.9943217497944093,REG,OK,False,ML Test · Phone-safe
+"Studio, corner, open, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.5524589614601331,0.9899890465090326,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 1.m4a",125.0,250.0,,125–250,3.972128125,0.4922801557558873,REG,CHECK,True,ML Test · Phone-safe
+"Studio, mid, closed, mic, 1.m4a",250.0,500.0,,250–500,3.9721479166666662,0.5524618206074258,REG,CHECK,True,ML Test · Phone-safe
+"Studio, mid, closed, mic, 1.m4a",500.0,2000.0,,500–2k,0.6152503123571841,0.9959462024802763,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.5281351196098297,0.9952837359278599,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.4930508056284253,0.9953719683362603,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 2.m4a",125.0,250.0,,125–250,2.608284375,0.6028705977587003,REG,CHECK,True,ML Test · Phone-safe
+"Studio, mid, closed, mic, 2.m4a",250.0,500.0,,250–500,0.7130377899736116,0.987622566795901,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 2.m4a",500.0,2000.0,,500–2k,0.6099793303902817,0.9962589077752276,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.5478444739131848,0.9964499007578871,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.5023687811421181,0.9971264168640438,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 3.m4a",125.0,250.0,,125–250,3.351303125,0.4106499730703925,REG,CHECK,True,ML Test · Phone-safe
+"Studio, mid, closed, mic, 3.m4a",250.0,500.0,,250–500,0.6474315946345063,0.9827040904135785,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 3.m4a",500.0,2000.0,,500–2k,0.671766877760573,0.9976782990514705,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.5952860745451546,0.9977957793651545,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.5807403317342138,0.9935717413062266,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 4.m4a",125.0,250.0,,125–250,4.040429166666667,0.49196041125616197,REG,CHECK,True,ML Test · Phone-safe
+"Studio, mid, closed, mic, 4.m4a",250.0,500.0,,250–500,4.041616666666666,0.4288083201698326,REG,CHECK,True,ML Test · Phone-safe
+"Studio, mid, closed, mic, 4.m4a",500.0,2000.0,,500–2k,0.631007695373976,0.9985900830828787,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 4.m4a",2000.0,4000.0,,2k–4k,0.5871143772608519,0.9972897369587576,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, closed, mic, 4.m4a",4000.0,8000.0,,4k–8k,0.547044833751195,0.9977826863982809,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 1.m4a",125.0,250.0,,125–250,4.818657291666667,0.7746275729215137,REG,CHECK,True,ML Test · Phone-safe
+"Studio, mid, open, mic, 1.m4a",250.0,500.0,,250–500,2.5361222347724652,0.6764977243345565,REG,CHECK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 1.m4a",500.0,2000.0,,500–2k,0.7433575269896983,0.995612332103372,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 1.m4a",2000.0,4000.0,,2k–4k,0.61327750262888,0.9917596358371181,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 1.m4a",4000.0,8000.0,,4k–8k,0.6127407017437873,0.990836765582735,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 2.m4a",125.0,250.0,,125–250,4.806327083333334,0.8118176780651367,REG,CHECK,True,ML Test · Phone-safe
+"Studio, mid, open, mic, 2.m4a",250.0,500.0,,250–500,0.9859194060150436,0.9272701817098469,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 2.m4a",500.0,2000.0,,500–2k,0.7204426106396002,0.9945699635213081,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 2.m4a",2000.0,4000.0,,2k–4k,0.6153918237688636,0.9862013171489296,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 2.m4a",4000.0,8000.0,,4k–8k,0.61322679565334,0.9926795358093957,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 3.m4a",125.0,250.0,,125–250,2.7132626189846745,0.6645017703021258,REG,CHECK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 3.m4a",250.0,500.0,,250–500,0.6360560078679439,0.9886065658719989,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 3.m4a",500.0,2000.0,,500–2k,0.727555534411836,0.996181904916691,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 3.m4a",2000.0,4000.0,,2k–4k,0.6709236147979354,0.9942772124554127,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 3.m4a",4000.0,8000.0,,4k–8k,0.5945477406630779,0.9961933895038088,REG,OK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 4.m4a",125.0,250.0,,125–250,4.160742708333333,0.27868764170507854,REG,CHECK,True,ML Test · Phone-safe
+"Studio, mid, open, mic, 4.m4a",250.0,500.0,,250–500,0.5873196828282575,0.8404742608933943,REG,CHECK,False,ML Test · Phone-safe
+"Studio, mid, open, mic, 4.m4a",500.0,2000.0,,500–2k,2.8816666666666664,0.3531152333725313,REG,CHECK,True,ML Test · Phone-safe
+"Studio, mid, open, mic, 4.m4a",2000.0,4000.0,,2k–4k,2.8828145833333334,0.4947696073644415,REG,CHECK,True,ML Test · Phone-safe
+"Studio, mid, open, mic, 4.m4a",4000.0,8000.0,,4k–8k,2.8825770833333335,0.4856843006635894,REG,CHECK,True,ML Test · Phone-safe

@@ -1,0 +1,16 @@
+﻿{
+  "file": "Studio, corner, closed, phone, 1.m4a",
+  "rt60_measured": 3.359536458333333,
+  "rt60_predicted": 2.6771290159428016,
+  "rt60_fused": 2.9410794379280043,
+  "quality_pred": "CHECK",
+  "quality_probs": {
+    "CHECK": 0.57,
+    "OK": 0.43
+  },
+  "qc": {
+    "r2": 0.7773586000353578,
+    "snr_db": 39.15161975780915,
+    "capped": true
+  }
+}

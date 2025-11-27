@@ -1,0 +1,46 @@
+﻿
+File: sounds\Bedroom 2, centre, closed, earphone, 1.m4a
+Measured RT60: 0.4871403022088341 s
+Predicted RT60: 0.976 s  |  Fused: 0.4871403022088341 s
+Quality: OK  (probs: {'CHECK': 0.0675, 'OK': 0.9325})
+Tips:
+ - Balanced decay for speech/music practice.
+
+(JSON below)
+{
+  "file": "sounds\\Bedroom 2, centre, closed, earphone, 1.m4a",
+  "rt60_measured": 0.4871403022088341,
+  "rt60_predicted": 0.9761141984805376,
+  "rt60_fused": 0.4871403022088341,
+  "quality_pred": "OK",
+  "quality_probs": {
+    "CHECK": 0.0675,
+    "OK": 0.9325
+  },
+  "qc": {
+    "r2": 0.9915733622021393,
+    "snr_db": 53.829727352677864,
+    "capped": false
+  },
+  "features_used": [
+    "edt_s",
+    "c50_db",
+    "c80_db",
+    "r2",
+    "snr_db",
+    "spl_leq_db",
+    "spl_l90_db",
+    "capped",
+    "rt60_band_mean",
+    "rt60_band_median",
+    "n_band_ok",
+    "n_band_check",
+    "n_band_low"
+  ],
+  "rt60_low_med": 0.4459274374533392,
+  "rt60_mid_med": 0.48788809230071406,
+  "rt60_high_med": 0.5003196426557162,
+  "tips": [
+    "Balanced decay for speech/music practice."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "file": "Living_room_mid_phone_3.m4a",
+  "measured": {
+    "rt60_s": 0.54, "edt_s": 0.46, "r2": 0.95, "snr_db": 14.6, "c50_db": 2.1,
+    "rt60_low_med": 0.48, "rt60_mid_med": 0.53, "rt60_high_med": 0.60, "capped": false
+  },
+  "model": {"rt60_pred": 0.56, "quality_pred": "OK", "probs": {"OK":0.72,"CHECK":0.28}},
+  "images": {"rt60_plot": "/demo/plots/rec2_rt60.png", "spectrogram": "/demo/plots/rec2_spec.png"}
+}

@@ -1,0 +1,9 @@
+{
+  "file": "Hallway_center_phone_1.m4a",
+  "measured": {
+    "rt60_s": 0.40, "edt_s": 0.36, "r2": 0.84, "snr_db": 8.1, "c50_db": -0.5,
+    "rt60_low_med": 0.90, "rt60_mid_med": 0.42, "rt60_high_med": 0.28, "capped": false
+  },
+  "model": {"rt60_pred": 0.43, "quality_pred": "UNSTABLE", "probs": {"OK":0.21,"CHECK":0.39,"UNSTABLE":0.40}},
+  "images": {"rt60_plot": "/demo/plots/rec4_rt60.png", "spectrogram": "/demo/plots/rec4_spec.png"}
+}

@@ -1,0 +1,21 @@
+﻿{
+  "file": "sounds\\Bedroom 3, corner, open, earphone, 4.m4a",
+  "error": "rt60_analysis_failed: RT60 analysis failed",
+  "rt60_measured": null,
+  "rt60_predicted": null,
+  "rt60_fused": null,
+  "quality_pred": "LOW",
+  "quality_probs": {
+    "LOW": 1.0,
+    "CHECK": 0.0,
+    "OK": 0.0
+  },
+  "qc": {
+    "r2": null,
+    "snr_db": null,
+    "capped": true
+  },
+  "tips": [
+    "Refer to app info page to improve recording"
+  ]
+}

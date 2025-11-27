@@ -1,0 +1,21 @@
+﻿{
+  "file": "sounds\\Studio, corner, closed, phone, 1.m4a",
+  "error": "rt60_analysis_failed: Command '['ffmpeg', '-y', '-i', 'sounds\\\\Studio, corner, closed, phone, 1.m4a', '-ac', '1', 'C:\\\\Users\\\\rowan\\\\AppData\\\\Local\\\\Temp\\\\tmp1lk408m9.wav']' returned non-zero exit status 4294967294.",
+  "rt60_measured": null,
+  "rt60_predicted": null,
+  "rt60_fused": null,
+  "quality_pred": "LOW",
+  "quality_probs": {
+    "LOW": 1.0,
+    "CHECK": 0.0,
+    "OK": 0.0
+  },
+  "qc": {
+    "r2": null,
+    "snr_db": null,
+    "capped": true
+  },
+  "tips": [
+    "Refer to app info page to improve recording"
+  ]
+}

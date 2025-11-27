@@ -1,0 +1,9 @@
+{
+  "file": "Kitchen_corner_phone_2.m4a",
+  "measured": {
+    "rt60_s": 0.63, "edt_s": 0.50, "r2": 0.93, "snr_db": 4.8, "c50_db": 0.2,
+    "rt60_low_med": 0.70, "rt60_mid_med": 0.60, "rt60_high_med": 0.52, "capped": false
+  },
+  "model": {"rt60_pred": 0.67, "quality_pred": "CHECK", "probs": {"OK":0.44,"CHECK":0.56}},
+  "images": {"rt60_plot": "/demo/plots/rec3_rt60.png", "spectrogram": "/demo/plots/rec3_spec.png"}
+}

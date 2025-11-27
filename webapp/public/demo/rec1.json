@@ -1,0 +1,9 @@
+{
+  "file": "Bedroom_2_center_phone_1.m4a",
+  "measured": {
+    "rt60_s": 0.72, "edt_s": 0.59, "r2": 0.97, "snr_db": 18.2, "c50_db": 1.4,
+    "rt60_low_med": 0.78, "rt60_mid_med": 0.71, "rt60_high_med": 0.66, "capped": false
+  },
+  "model": {"rt60_pred": 0.70, "quality_pred": "OK", "probs": {"OK":0.78,"CHECK":0.22}},
+  "images": {"rt60_plot": "/demo/plots/rec1_rt60.png", "spectrogram": "/demo/plots/rec1_spec.png"}
+}

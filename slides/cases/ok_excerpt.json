@@ -1,0 +1,18 @@
+﻿{
+    "rt60_measured":  0.4871403022088341,
+    "rt60_predicted":  0.9761141984805376,
+    "rt60_fused":  0.4871403022088341,
+    "quality_pred":  "OK",
+    "quality_probs":  {
+                          "CHECK":  0.0675,
+                          "OK":  0.9325
+                      },
+    "qc":  {
+               "r2":  0.9915733622021393,
+               "snr_db":  53.829727352677864,
+               "capped":  false
+           },
+    "tips":  [
+                 "Balanced decay for speech/music practice."
+             ]
+}
